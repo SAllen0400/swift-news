@@ -8,5 +8,7 @@ This repository is home for all the links featured in Swift News.
 
 
 # November 30th, 2020
-<a href="https://developer.apple.com/news/?id=83m4plrb" target="_blank">App Store Holiday Hours</a>
+
+[Sean Allen](https://youtube.com/seanallen){:target="_blank"}
+<a href="http://example.com/" target="_blank">App Store Holiday Hours</a>
 
