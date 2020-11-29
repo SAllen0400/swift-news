@@ -8,4 +8,5 @@ This repository is home for all the links featured in Swift News.
 
 
 # November 30th, 2020
+[Sean Allen](https://youtube.com/seanallen)
 
