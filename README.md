@@ -1,5 +1,3 @@
-![Swift News Logo](https://seanallen-course-backend.herokuapp.com/images/swift-news-logo-white-small.png "Swift News Logo")
-
 <p align="center">
   <img src="https://seanallen-course-backend.herokuapp.com/images/swift-news-logo-white-small.png" />
 </p>
