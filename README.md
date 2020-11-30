@@ -4,21 +4,23 @@
 
 Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  Swift News is released every Monday so subscribe to the channel to never miss an episode.
 
+I release Swift News in podcast form (and other types of episodes) on my podcast [iOS Dev Discussions](https://podcasts.apple.com/us/podcast/ios-dev-discussions-sean-allen/id1426167395).
+
 This repository is home for all the links featured in Swift News.
 
 
 # November 30th, 2020
 [Swift News - YouTube Video](https://youtu.be/AilSmyZQ0ng)
 
-[App Store Holiday Blackout](https://developer.apple.com/news/?id=83m4plrb)\
-[App Store Privacy Label](https://developer.apple.com/news/?id=em8fm29e)\
-[Swift Property Wrappers](https://www.avanderlee.com/swift/property-wrappers)\
-[Managing URLs & Endpoints](https://www.swiftbysundell.com/clips/4/)\
-[SF Symbols 2.1](https://hacknicity.medium.com/sf-symbols-changes-in-ios-14-2-8a8bdf708426)\
-[Protocols in SwiftUI](https://fivestars.blog/swiftui/swift-protocols.html)\
-[Indie App Press](https://twitter.com/OliverJHaslam/status/1331690323895062531)\
-[AR Corner](https://twitter.com/pradeeprao_/status/1330710223300988935)\
-[LOL](https://twitter.com/towernter/status/1332692092863340544)
+[App Store Holiday Blackout](https://developer.apple.com/news/?id=83m4plrb)  
+[App Store Privacy Label](https://developer.apple.com/news/?id=em8fm29e)  
+[Swift Property Wrappers](https://www.avanderlee.com/swift/property-wrappers)  
+[Managing URLs & Endpoints](https://www.swiftbysundell.com/clips/4/)  
+[SF Symbols 2.1](https://hacknicity.medium.com/sf-symbols-changes-in-ios-14-2-8a8bdf708426)  
+[Protocols in SwiftUI](https://fivestars.blog/swiftui/swift-protocols.html)  
+[Indie App Press](https://twitter.com/OliverJHaslam/status/1331690323895062531)  
+[AR Corner](https://twitter.com/pradeeprao_/status/1330710223300988935)  
+[LOL](https://twitter.com/towernter/status/1332692092863340544)  
 
 
 # November 23th, 2020
@@ -33,5 +35,4 @@ This repository is home for all the links featured in Swift News.
 [SwiftUI Previews](https://www.avanderlee.com/swiftui/previews-different-states)  
 [Swift and Raspberry Pi](https://lickability.com/blog/swift-on-raspberry-pi-workshop-part-3/)  
 [AR Corner](https://twitter.com/OscarFalmer/status/1329034251526938626)  
-[Hired.com](https://hired.com/x/1n01g)  
-[My Podcast - iOS Dev Discussions](https://podcasts.apple.com/us/podcast/ios-dev-discussions-sean-allen/id1426167395)  
+ 
