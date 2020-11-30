@@ -24,17 +24,14 @@ This repository is home for all the links featured in Swift News.
 # November 23th, 2020
 [Swift News - YouTube Video](https://youtu.be/5Mg92jJI-MM)
 
-[Swift 5.4 Release Process](https://forums.swift.org/t/swift-5-4-release-process/41936)
-[Subscription Offer Codes - Apple]
-(https://developer.apple.com/news/?id=g20wyc9c&1605657873)
-[Subscription Offer Codes - denzhadanov.com]
-https://denzhadanov.com/app-store-introduces-subscription-offer-codes-why-does-it-matter-ae755754653b
-[Small Business Program](https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/)
-[SF Symbols 2.1](https://twitter.com/themikestern/status/1330210252139192320)
-[Big Sur Icons](https://macosicons.com/)
-[SwiftUI Previews](https://www.avanderlee.com/swiftui/previews-different-states)
-[Swift and Raspberry Pi](https://lickability.com/blog/swift-on-raspberry-pi-workshop-part-3/)
-[AR Corner](https://twitter.com/OscarFalmer/status/1329034251526938626)
-[Hired.com](https://hired.com/x/1n01g)
-[My Podcast - iOS Dev Discussions](https://podcasts.apple.com/us/podcast/ios-dev-discussions-sean-allen/id1426167395)
-
+[Swift 5.4 Release Process](https://forums.swift.org/t/swift-5-4-release-process/41936)  
+[Subscription Offer Codes - Apple](https://developer.apple.com/news/?id=g20wyc9c&1605657873)  
+[Subscription Offer Codes - denzhadanov.com](https://denzhadanov.com/app-store-introduces-subscription-offer-codes-why-does-it-matter-ae755754653b)  
+[Small Business Program](https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/)  
+[SF Symbols 2.1](https://twitter.com/themikestern/status/1330210252139192320)  
+[Big Sur Icons](https://macosicons.com/)  
+[SwiftUI Previews](https://www.avanderlee.com/swiftui/previews-different-states)  
+[Swift and Raspberry Pi](https://lickability.com/blog/swift-on-raspberry-pi-workshop-part-3/)  
+[AR Corner](https://twitter.com/OscarFalmer/status/1329034251526938626)  
+[Hired.com](https://hired.com/x/1n01g)  
+[My Podcast - iOS Dev Discussions](https://podcasts.apple.com/us/podcast/ios-dev-discussions-sean-allen/id1426167395)  
