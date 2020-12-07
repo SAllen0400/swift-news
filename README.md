@@ -14,7 +14,7 @@ This repository is home for all the links featured in Swift News.
 [Small Business Program Details](https://developer.apple.com/app-store/small-business-program/)  
 [Swift Version History](https://swiftversion.net)  
 [Best Apps of 2020](https://www.apple.com/newsroom/2020/12/apple-presents-app-store-best-of-2020-winners/)  
-[Spend Stack Aquisition](https://www.swiftjectivec.com/a-new-home-for-spend-stack/)  
+[Spend Stack Acquisition](https://www.swiftjectivec.com/a-new-home-for-spend-stack/)  
 [App Pricing Strategies](https://blog.zach.so/p/a-comprehensive-guide-to-app-pricing)  
 [Working in Bursts](https://twitter.com/KevinQuisquater/status/1334088820304842760)  
 [ColorKit](https://github.com/Boris-Em/ColorKit)  
