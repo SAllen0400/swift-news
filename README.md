@@ -8,6 +8,10 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 
 This repository is home for all the links featured in Swift News.
 
+# December 14th, 2020
+Week Off
+
+
 # December 7th, 2020
 [Swift News - YouTube Video](https://youtu.be/ASVNIX-J-zE)
 
@@ -36,7 +40,7 @@ This repository is home for all the links featured in Swift News.
 [LOL](https://twitter.com/towernter/status/1332692092863340544)  
 
 
-# November 23th, 2020
+# November 23rd, 2020
 [Swift News - YouTube Video](https://youtu.be/5Mg92jJI-MM)
 
 [Swift 5.4 Release Process](https://forums.swift.org/t/swift-5-4-release-process/41936)  
