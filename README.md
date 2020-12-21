@@ -8,8 +8,12 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 
 This repository is home for all the links featured in Swift News.
 
+# December 21st, 2020
+No Episode - Holiday Break
+
+
 # December 14th, 2020
-Week Off
+No Episode - Holiday Break
 
 
 # December 7th, 2020
