@@ -8,6 +8,25 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 
 This repository is home for all the links featured in Swift News.
 
+# December 28th, 2020
+[Swift News - YouTube Video](https://youtu.be/ObALdJyiPgU)
+
+[Diversity in Swift](https://swift.org/diversity/#community-groups)  
+[Building Layouts with Stack Views](https://developer.apple.com/documentation/swiftui/building-layouts-with-stack-views)  
+[Creating Performant Scrollable Stacks](https://developer.apple.com/documentation/swiftui/creating-performant-scrollable-stacks)  
+[Aligning Views Across Stacks](https://developer.apple.com/documentation/swiftui/aligning-views-across-stacks)  
+[New Apple UI Performance Videos](https://twitter.com/PDucks32/status/1341877266490355712)  
+[App Clips - HIG](https://developer.apple.com/design/human-interface-guidelines/app-clips/overview/app-clip-codes/)  
+[MacStories App Awards](https://www.macstories.net/stories/macstories-selects-2020-recognizing-the-best-apps-of-the-year)  
+[Swift at Uber Tweet Thread](https://twitter.com/StanTwinB/status/1336890442768547845)  
+[Swift at Uber Blog Post](https://medium.com/nerd-for-tech/binary-size-woes-acb5d96f058a)  
+[Transparent App Icons Blog Post](https://noahgilmore.com/blog/transparent-app-icons/)  
+[Video on GitHub](https://github.blog/changelog/2020-12-16-video-upload-public-beta/)  
+[AR Corner - Magazine Cover](https://twitter.com/LeahLundqvist/status/1337180228268003331)  
+[AR Corner - Bitmoji Body](https://twitter.com/ARstories/status/1334540839582900226) 
+[LOL](https://twitter.com/KyleMorgenstein/status/1338551698332258304)  
+
+
 # December 21st, 2020
 No Episode - Holiday Break
 
