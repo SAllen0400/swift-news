@@ -8,6 +8,16 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 
 This repository is home for all the links featured in Swift News.
 
+# January 4th, 2021
+[Swift News - YouTube Video](https://youtu.be/-SHLN2ZLqpA)
+
+[MortyUI](https://github.com/Dimillian/MortyUI)  
+[The lifecycle and semantics of a SwiftUI view](https://swiftbysundell.com/articles/the-lifecycle-and-semantics-of-a-swiftui-view/)  
+[CoreData Articles](https://www.avanderlee.com/category/core-data/)  
+[CoreData Sample Project](https://github.com/AvdLee/CoreDataBestPractices)  
+[Snake in SwiftUI](http://ios-dev.co/swiftui/snake-game/)  
+
+
 # December 28th, 2020
 [Swift News - YouTube Video](https://youtu.be/ObALdJyiPgU)
 
