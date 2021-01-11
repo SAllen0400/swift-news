@@ -8,6 +8,18 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 
 This repository is home for all the links featured in Swift News.
 
+# January 11th, 2021
+[Swift News - YouTube Video](https://youtu.be/PzCAkaBc8Yw)
+
+[iOS Developer Community Survey](https://iosdevsurvey.com/updates/launching-the-2020-survey/)  
+[10 Things iOS Developers Should Focus On in 2021](https://www.donnywals.com/10-things-ios-developers-should-focus-on-in-2021/)  
+[Getting the most out of Xcode Previews for SwiftUI](https://swiftbysundell.com/articles/getting-the-most-out-of-xcode-previews/#specific-environments)  
+[Instruments Tutorial with Swift: Getting Started](https://www.raywenderlich.com/16126261-instruments-tutorial-with-swift-getting-started)  
+[Twitter Wisdom](https://twitter.com/noahsark769/status/1346684620562075649)  
+[ARCorner](https://twitter.com/riccqi/status/1347562930078826498)  
+[LOL](https://twitter.com/AlexStrook/status/1346835092535181312)  
+
+
 # January 4th, 2021
 [Swift News - YouTube Video](https://youtu.be/-SHLN2ZLqpA)
 
