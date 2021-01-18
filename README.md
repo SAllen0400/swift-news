@@ -8,6 +8,21 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 
 This repository is home for all the links featured in Swift News.
 
+
+# January 18th, 2021
+[Swift News - YouTube Video](https://youtu.be/isjE-KpmThg)
+
+[SwiftWASM](https://blog.swiftwasm.org/posts/update-05-december-2020/)  
+[How to select images using PHPickerViewController with SwiftUI](https://kristaps.me/blog/swiftui-select-image-with-phpickerviewcontroller/)  
+[Wrangling Time](https://harshil.net/blog/foundation-date)  
+[What is a Computed Property in Swift?](https://www.avanderlee.com/swift/computed-property)  
+[The Diminishing Utility of MFMailComposeViewController](https://stuartbreckenridge.com/2021/01/the-diminishing-utility-of-mfmailcomposeviewcontroller/)  
+[Distributing Mac apps outside the App Store, a quick start guide](https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store)  
+[Screenlane](https://screenlane.com/screens/ios/)  
+[Twitter Widsom](https://twitter.com/shl/status/1349848397516193792)  
+[LOL](https://twitter.com/iamdevloper/status/1348935264249511936)  
+
+
 # January 11th, 2021
 [Swift News - YouTube Video](https://youtu.be/PzCAkaBc8Yw)
 
