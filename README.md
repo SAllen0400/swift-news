@@ -9,6 +9,22 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 This repository is home for all the links featured in Swift News.
 
 
+# January 25th, 2021
+[Swift News - YouTube Video](https://youtu.be/V4gwzZ8_LK0)
+
+[App architecture basics in SwiftUI, Part 2: SwiftUI's natural pattern](https://cocoawithlove.com/blog/swiftui-natural-pattern.html)  
+[ACCESSIBILITY → UP TO 11!](https://dadederk.github.io/post/2021-01-21-01/)  
+[Build Animated Pie and Donut Charts in SwiftUI](https://medium.com/better-programming/build-animated-pie-and-donut-charts-in-swiftui-9b74b95f8b39)  
+[Recreating the Strava Activity Graph in SwiftUI](https://trailingclosure.com/recreating-the-strava-activity-graph/)  
+[SwiftUI Custom View Modifiers](https://useyourloaf.com/blog/swiftui-custom-view-modifiers/)  
+[CompositionalDiffablePlayground](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios)  
+[Twitter Wisdom](https://twitter.com/NovallSwift/status/1353089030976466944)  
+[Apple Design Resources](https://developer.apple.com/design/resources/)  
+[UI Inspiration Pinterest Board](https://www.pinterest.ie/stroughtonsmith/ui/)  
+[LOL #1](https://twitter.com/shituserstories)  
+[LOL #2](https://twitter.com/sanjazakovska/status/1352557733787152389)  
+
+
 # January 18th, 2021
 [Swift News - YouTube Video](https://youtu.be/isjE-KpmThg)
 
@@ -19,7 +35,7 @@ This repository is home for all the links featured in Swift News.
 [The Diminishing Utility of MFMailComposeViewController](https://stuartbreckenridge.com/2021/01/the-diminishing-utility-of-mfmailcomposeviewcontroller/)  
 [Distributing Mac apps outside the App Store, a quick start guide](https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store)  
 [Screenlane](https://screenlane.com/screens/ios/)  
-[Twitter Widsom](https://twitter.com/shl/status/1349848397516193792)  
+[Twitter Wisdom](https://twitter.com/shl/status/1349848397516193792)  
 [LOL](https://twitter.com/iamdevloper/status/1348935264249511936)  
 
 
