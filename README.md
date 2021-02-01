@@ -9,6 +9,20 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 This repository is home for all the links featured in Swift News.
 
 
+# February 1st, 2021
+[Swift News - YouTube Video](https://youtu.be/dBnQqb9z7d0)
+
+[Why Swift (isn’t) being undermined of its potential](https://frisco-uplink.com/2021/why-swift-isnt-being-undermined-of-its-full-potential/)  
+[Paul Hudson - Control Room 2.0](https://twitter.com/twostraws/status/1355266028306108416)  
+[Paul Hudson - Sitrep](https://twitter.com/twostraws/status/1354136797496881154)  
+[Software development topics I've changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years)  
+[SwifUI Mac Menus](https://troz.net/post/2021/swiftui_mac_menus/)  
+[Lazy var in Swift explained with code examples](https://www.avanderlee.com/swift/lazy-var-property/)  
+[iOS Conf SG 2021 Videos](https://www.youtube.com/playlist?list=PLED4k3CZkY9Rl-hUvQ9im8WOp9If5_kHx)  
+[LOL #1](https://twitter.com/iamdevloper/status/1353257143097581568)  
+[LOL #2](https://twitter.com/Carnage4Life/status/1355187699305472014)  
+
+
 # January 25th, 2021
 [Swift News - YouTube Video](https://youtu.be/V4gwzZ8_LK0)
 
