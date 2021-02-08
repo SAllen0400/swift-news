@@ -9,6 +9,20 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 This repository is home for all the links featured in Swift News.
 
 
+# February 8th, 2021
+[Swift News - YouTube Video](https://youtu.be/asH_SA5eE2I)
+
+[What’s new in Swift 5.4?](https://www.hackingwithswift.com/articles/228/whats-new-in-swift-5-4)  
+[iOS Feeds](https://iosfeeds.com)  
+[Passing methods as SwiftUI view actions](https://swiftbysundell.com/tips/passing-methods-as-swiftui-view-actions/)  
+[Indie Dev: Blackbox - Ryan McLeod](https://www.youtube.com/watch?v=4rJzWH__KHE&feature=emb_logo)  
+[How I got into FAANG](https://www.davidseek.com/faang/)  
+[Be Humble](https://lucumr.pocoo.org/2021/2/5/be-humble/)  
+[The man who produced Steve Jobs’ keynotes for 20 years.](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)  
+[AR Corner](https://twitter.com/sndrv/status/1356884973979115522)  
+[LOL](https://twitter.com/krstnfx/status/1357790545867808769)  
+
+
 # February 1st, 2021
 [Swift News - YouTube Video](https://youtu.be/dBnQqb9z7d0)
 
