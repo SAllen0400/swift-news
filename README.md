@@ -9,6 +9,23 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 This repository is home for all the links featured in Swift News.
 
 
+# February 15th, 2021
+[Swift News - YouTube Video](https://youtu.be/9nnoOwNuBD4)
+
+[Result builders in Swift explained with code examples](https://www.avanderlee.com/swift/result-builders)  
+[Chained implicit member expressions in Swift 5.4](https://swiftbysundell.com/tips/chained-implicit-member-expressions/)  
+[Navigation in SwiftUI](https://sarunw.com/posts/navigation-in-swiftui/)  
+[181 iOS Developer and Productivity Tools](https://blog.supereasyapps.com/181-ios-developer-and-productivity-tools-plus-standing-desk-setup/)  
+[Twitter Wisdom - Programmer Traps](https://twitter.com/JJcoolkl/status/1359653378956152835)  
+[Twitter Wisdom - SwiftUI Myths](https://twitter.com/oskargroth/status/1359523601465159682)  
+[Twitter Wisdom - Remote Work](https://twitter.com/chris_herd/status/1359135080753614854)  
+[Road to My First iOS Job](https://medium.com/swlh/road-to-my-first-ios-job-b91bd18ede6e)  
+[AR Corner](https://twitter.com/domhofdesign/status/1359587098043568133)  
+[Random - Sorting Algos](https://twitter.com/pickover/status/1359619108711628800)  
+[Random - Metahumans](https://twitter.com/zoescaman/status/1359540594645880835)  
+
+
+
 # February 8th, 2021
 [Swift News - YouTube Video](https://youtu.be/asH_SA5eE2I)
 
