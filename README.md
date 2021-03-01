@@ -9,6 +9,29 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 This repository is home for all the links featured in Swift News.
 
 
+# March 1st, 2021
+[Swift News - YouTube Video](https://youtu.be/Zx4D8M_pYYE)
+
+[Swift Algorithms - Update](https://github.com/apple/swift-algorithms/releases/tag/0.0.3)  
+[App Store Privacy Labels - Update](https://developer.apple.com/news/?id=wd7cwosa)  
+[AppKit is Done](https://kean.blog/post/appkit-is-done)  
+[Custom HUDs in SwiftUI](https://www.fivestars.blog/swiftui/swiftui-hud.html)  
+[IndieDev Tips #2 • Diversified portfolio vs. Big idea: the right approach](https://www.getrevue.co/profile/edouard_iosdev/issues/indiedev-tips-2-diversified-portfolio-vs-big-idea-the-right-approach-402708)  
+[How I would solve the Facebook iOS App Design Interview](https://www.davidseek.com/fb/)  
+[How Uber Deals with Large iOS App Size](https://eng.uber.com/how-uber-deals-with-large-ios-app-size/)  
+[Twitter Wisdom - Success](https://twitter.com/albertodebo/status/1362799985297920003)  
+[Bites of Wisdom](https://www.instagram.com/bytesofwisdom/)  
+[LOL - Code Signing Mario](https://twitter.com/ios_memes/status/1365352815128903682)  
+[LOL - Car Charger](https://twitter.com/EddyVinckk/status/1360859442309390342)  
+
+
+
+
+# February 22nd, 2021
+No Episode - Break  
+
+
+
 # February 15th, 2021
 [Swift News - YouTube Video](https://youtu.be/9nnoOwNuBD4)
 
