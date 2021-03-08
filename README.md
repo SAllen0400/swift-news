@@ -9,6 +9,20 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 This repository is home for all the links featured in Swift News.
 
 
+# March 8th, 2021
+[Swift News - YouTube Video](https://youtu.be/6o_fikwMuuQ)
+
+[Writing High-Performance Swift Code](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#enabling-optimizations)  
+[Using self, weak, and unowned in Combine](https://trycombine.com/posts/self-weak-unowned/)  
+[Announcing the Mobile Native Foundation](https://eng.lyft.com/announcing-the-mobile-native-foundation-a289ec63b60a)  
+[Twitter Wisdom - How it REALLY Goes](https://twitter.com/DavidKPiano/status/1366036658475339786)  
+[How to Deal With Subscription Hate](https://twitter.com/cabel/status/1366878238539087872)  
+[Do Great Work, Then Tell People About It](https://allenpike.com/2021/do-great-work-marketing)  
+[Things I Made That Sucked](https://www.swiftjectivec.com/things-i-made-that-sucked/)  
+[LOL - Impostor](https://twitter.com/ios_memes/status/1367092140342267904)  
+
+
+
 # March 1st, 2021
 [Swift News - YouTube Video](https://youtu.be/Zx4D8M_pYYE)
 
