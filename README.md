@@ -9,6 +9,19 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 This repository is home for all the links featured in Swift News.
 
 
+# March 15th, 2021
+[Swift News - YouTube Video](https://youtu.be/xi1nDxslyLc)
+
+[Tweaking The iOS System Fonts](https://useyourloaf.com/blog/tweaking-the-ios-system-fonts/)  
+[UIMenu: Comprehensive guide](https://nemecek.be/blog/88/uimenu-comprehensive-guide)  
+[Small Business Program - Cautionary Tale](https://twitter.com/sharding/status/1369736553614999553)  
+[Twitter Wisdom - Tutorial Retention](https://twitter.com/techgirl1908/status/1370446628738449408)  
+[Developers on the Mac: The Great Survey](https://www.git-tower.com/blog/mac-dev-survey-2021/)  
+[AR Corner](https://twitter.com/2020cv_inc/status/1369408302082363392)  
+[LOL - Savior](https://twitter.com/nixcraft/status/1370091030477897728)  
+[LOL - Pull Requests](https://twitter.com/myell0w/status/1369223665733095425)  
+
+
 # March 8th, 2021
 [Swift News - YouTube Video](https://youtu.be/6o_fikwMuuQ)
 
