@@ -8,6 +8,20 @@ I release Swift News in podcast form (and other types of episodes) on my podcast
 
 This repository is home for all the links featured in Swift News.
 
+# March 22nd, 2021
+[Swift News - YouTube Video](https://youtu.be/-0o0q7BsldA)
+
+[The iOS Developer Community Survey](https://iosdevsurvey.com/2020/)  
+[Introducing The Daily iOS](https://www.swiftjectivec.com/introducing-the-daily-ios/)  
+[Array Syntax Tweet](https://twitter.com/AirspeedSwift/status/1372912670542757891)  
+[50+ iOS Dev Tools](https://6ary.medium.com/50-helpful-ios-developer-resources-3d206073757c)  
+[Junior to Senior Tweet](https://twitter.com/fromjrtosr/status/1371865810545876995)  
+[AR Corner - Building Tetris](https://twitter.com/mechpil0t/status/1371286622398935047)  
+[AR Corner - Directions](https://twitter.com/domhofdesign/status/1372252573529423875)  
+[LOL - Treasury](https://twitter.com/V8tr/status/1372470704197808133)  
+[LOL - Falling](hhttps://twitter.com/designatednerd/status/1373742844196880386)  
+
+
 
 # March 15th, 2021
 [Swift News - YouTube Video](https://youtu.be/xi1nDxslyLc)
