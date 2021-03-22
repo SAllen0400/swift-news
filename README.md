@@ -19,7 +19,7 @@ This repository is home for all the links featured in Swift News.
 [AR Corner - Building Tetris](https://twitter.com/mechpil0t/status/1371286622398935047)  
 [AR Corner - Directions](https://twitter.com/domhofdesign/status/1372252573529423875)  
 [LOL - Treasury](https://twitter.com/V8tr/status/1372470704197808133)  
-[LOL - Falling](hhttps://twitter.com/designatednerd/status/1373742844196880386)  
+[LOL - Falling](https://twitter.com/designatednerd/status/1373742844196880386)  
 
 
 
