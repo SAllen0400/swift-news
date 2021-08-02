@@ -2,11 +2,27 @@
   <img src="https://seanallen-course-backend.herokuapp.com/images/swift-news-logo-white-small.png" />
 </p>
 
-Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  Swift News is released every Monday so subscribe to the channel to never miss an episode.
-
-I release Swift News in podcast form (and other types of episodes) on my podcast [iOS Dev Discussions](https://podcasts.apple.com/us/podcast/ios-dev-discussions-sean-allen/id1426167395).
+Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  Swift News is released the first Monday of each month so subscribe to the channel to never miss an episode.
 
 This repository is home for all the links featured in Swift News.
+
+
+# August 2nd, 2021
+[Swift News - YouTube Video](https://youtu.be/je_VlMQR8v0)
+
+[Async/Await and the Future of Combine](https://benscheirman.com/2021/06/async-await-and-the-future-of-combine/)  
+[Swift Concurrency by Example](https://www.hackingwithswift.com/quick-start/concurrency)  
+[Meet the UIKit button system](https://developer.apple.com/videos/play/wwdc2021/10064/)  
+[The many faces of button in SwiftUI](https://swiftwithmajid.com/2021/06/30/the-many-faces-of-button-in-swiftui/)  
+[SF Symbol Changes in iOS 15](https://hacknicity.medium.com/sf-symbol-changes-in-ios-15-fa40a332de3b)  
+[WWDC 21 Sample Code](https://developer.apple.com/sample-code/wwdc/2021/)  
+[Is SwiftUI ready?](https://www.jessesquires.com/blog/2021/07/01/is-swiftui-ready/)  
+[Swift Programming for macOS](https://gavinw.me/swift-macos/)  
+[Why we got rid of most dependencies](https://chris.eidhof.nl/post/fewer-dependencies/)  
+[Five tips to help you become a well-rounded developer](https://www.donnywals.com/five-tips-to-help-you-become-a-well-rounded-developer/)  
+[Career Arc Tweet](https://twitter.com/flaviocopes/status/1417007331930423298)  
+
+
 
 # March 22nd, 2021
 [Swift News - YouTube Video](https://youtu.be/-0o0q7BsldA)
