@@ -2,9 +2,32 @@
   <img src="https://seanallen-course-backend.herokuapp.com/images/swift-news-logo-white-small.png" />
 </p>
 
-Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  Swift News is released the first Monday of each month so subscribe to the channel to never miss an episode.
+Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  Swift News is released on the first weekday of each month.
 
 This repository is home for all the links featured in Swift News.
+
+# September 1st, 2021
+[Swift News - YouTube Video](https://youtu.be/r_iw5mbKzOM)
+
+[iOS Dev Jobs](https://iosdevjobs.com)  
+[Creating Slick Color Palette APIs](https://www.fabisevi.ch/2021/08/24/creating-slick-color-palette-apis/)  
+[Confirmation dialogs in SwiftUI](https://swiftwithmajid.com/2021/07/28/confirmation-dialogs-in-swiftui/)  
+[Every SwiftUI Environment Value explained](https://www.fivestars.blog/articles/swiftui-environment-values/)  
+[Force Unwrap Meme](https://twitter.com/ios_memes/status/1423644458827096070)  
+[Force Unwrap Twitter Thread](https://twitter.com/mattie/status/1423696569119936518)  
+[Unwrap or throw: Exploring solutions in Swift](https://www.avanderlee.com/swift/unwrap-or-throw/)  
+[8 Google Tips Tweet](https://twitter.com/chrishlad/status/1431674870299955206)  
+[Software Engineering Isn’t Magic](http://amro.co/software-engineering-isn-t-magic)  
+[Apple's AR Development Tweet](https://twitter.com/AndrewProjDent/status/1422948702516301824)  
+[VoxelizeAR Tweet](https://twitter.com/mattbierner/status/1425503527992926215)  
+[AR Pond Tweet](https://twitter.com/t_itamiya/status/1431400520107782144)  
+[LOL - Delete Code Tweet](https://twitter.com/glyph/status/1419715153256325121)  
+[LOL - Coding in Front of People Tweet](https://twitter.com/oihamza/status/1429408131407351810)  
+[LOL - AirPod Man Tweet](https://twitter.com/tme_michael/status/1428389078953775107)  
+[LOL - Edge Case Tweet](https://twitter.com/edwardsanchez/status/1425325623078129670)  
+[LOL - Status 200 Tweet](https://twitter.com/yechielk/status/1428060566862577666)  
+[LOL - Call Tweet](https://twitter.com/zhaovan8/status/1430592057849040899)  
+[LOL - Add More People Tweet](https://twitter.com/_workchronicles/status/1429741661773602822)  
 
 
 # August 2nd, 2021
@@ -23,7 +46,6 @@ This repository is home for all the links featured in Swift News.
 [Career Arc Tweet](https://twitter.com/flaviocopes/status/1417007331930423298)  
 
 
-
 # March 22nd, 2021
 [Swift News - YouTube Video](https://youtu.be/-0o0q7BsldA)
 
@@ -36,7 +58,6 @@ This repository is home for all the links featured in Swift News.
 [AR Corner - Directions](https://twitter.com/domhofdesign/status/1372252573529423875)  
 [LOL - Treasury](https://twitter.com/V8tr/status/1372470704197808133)  
 [LOL - Falling](https://twitter.com/designatednerd/status/1373742844196880386)  
-
 
 
 # March 15th, 2021
@@ -65,7 +86,6 @@ This repository is home for all the links featured in Swift News.
 [LOL - Impostor](https://twitter.com/ios_memes/status/1367092140342267904)  
 
 
-
 # March 1st, 2021
 [Swift News - YouTube Video](https://youtu.be/Zx4D8M_pYYE)
 
@@ -82,11 +102,8 @@ This repository is home for all the links featured in Swift News.
 [LOL - Car Charger](https://twitter.com/EddyVinckk/status/1360859442309390342)  
 
 
-
-
 # February 22nd, 2021
 No Episode - Break  
-
 
 
 # February 15th, 2021
@@ -103,7 +120,6 @@ No Episode - Break
 [AR Corner](https://twitter.com/domhofdesign/status/1359587098043568133)  
 [Random - Sorting Algos](https://twitter.com/pickover/status/1359619108711628800)  
 [Random - Metahumans](https://twitter.com/zoescaman/status/1359540594645880835)  
-
 
 
 # February 8th, 2021
