@@ -2,9 +2,30 @@
   <img src="https://seanallen-course-backend.herokuapp.com/images/swift-news-logo-white-small.png" />
 </p>
 
-Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  Swift News is released on the first weekday of each month.
+Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  Swift News is released at the beginning of each month.
 
 This repository is home for all the links featured in Swift News.
+
+# October 4th, 2021
+[Swift News - YouTube Video](https://youtu.be/dOVRpJff3P8)
+
+[Swift 5.5 Released!](https://swift.org/blog/swift-5-5-released/)  
+[iOS and iPadOS 15: The MacStories Review](https://www.macstories.net/stories/ios-and-ipados-15-the-macstories-review/#)  
+[Mixpanel: iOS 15 Adoption](https://mixpanel.com/trends/#report/ios_15)  
+[How iPad Apps Adapt to the New 8.3" iPad Mini](https://hacknicity.medium.com/how-ipad-apps-adapt-to-the-new-8-3-ipad-mini-7796efdc88eb)  
+[SF Symbols 3](https://developer.apple.com/sf-symbols/)  
+[How to make a custom button style with UIButton.Configuration in iOS 15](https://sarunw.com/posts/how-to-mark-custom-button-style-with-uibuttonconfiguration/)  
+[The new shiny](https://increment.com/mobile/the-shift-to-declarative-ui/)  
+[DRY: Misunderstood Tweet](https://twitter.com/nicklockwood/status/1436261948950294530)  
+[App Store Promotion Tool](https://tools.applemediaservices.com/apple-app-store-promote)  
+[AR Corner: See Through Box](https://twitter.com/MatthewHallberg/status/1432763688902082565)  
+[AR Corner: Wall Breaker](https://twitter.com/lopp/status/1434226560375083014)  
+[AR Corner: Carolina Panthers](https://twitter.com/BleacherReport/status/1437109242612359175)  
+[AR Corner: Full Body Mask](https://twitter.com/DonAllenIII/status/1441056599712231430)  
+[LOL - 1200 Nits](https://twitter.com/kyleve/status/1437839777592582144)  
+[LOL - Senior Dev](https://twitter.com/ElanShudnow/status/1438340230562603014)  
+[LOL - Apple Connections](https://twitter.com/atomicbird/status/499576229734150144)  
+
 
 # September 1st, 2021
 [Swift News - YouTube Video](https://youtu.be/r_iw5mbKzOM)
