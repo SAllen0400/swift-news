@@ -6,7 +6,25 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
-# October 4th, 2021
+# December 2021
+[Swift News - YouTube Video](https://youtu.be/F6oAuaY28eA)
+
+[Swift Playgrounds 4](https://developer.apple.com/swift-playgrounds/)  
+[How to build your first SwiftUI app with Swift Playgrounds](https://www.hackingwithswift.com/articles/245/build-your-first-swiftui-app-with-swift-playgrounds)  
+[Apple’s use of Swift and SwiftUI in iOS 15](https://blog.timac.org/2021/1219-state-of-swift-and-swiftui-ios15/)  
+[App Store Awards honor the best apps and games of 2021](https://www.apple.com/newsroom/2021/12/app-store-awards-honor-the-best-apps-and-games-of-2021/)  
+[App Store Award Unboxing](https://twitter.com/danielkorpai/status/1467906047654473728)  
+[Write better code with Swift Algorithms](https://www.hackingwithswift.com/articles/243/write-better-code-with-swift-algorithms)  
+[How necessary are the programming fundamentals?](https://swiftrocks.com/how-necessary-are-the-programming-fundamentals)  
+[What role do Tasks play within Swift’s concurrency system?](https://swiftbysundell.com/articles/the-role-tasks-play-in-swift-concurrency/)  
+[Understanding Swift’s AsyncSequence](https://www.donnywals.com/understanding-swifts-asyncsequence/)  
+[Mac Development Resources](https://twitter.com/onmyway133/status/1455927786963537921)  
+[App Store A/B Testing](https://developer.apple.com/app-store/product-page-optimization/)  
+[Cross-Platform Design Giveaways](https://twitter.com/featherless/status/1464676409306230791)  
+[LOL - Documentation](https://twitter.com/CommitStrip/status/1458517445363347457)  
+
+
+# October 2021
 [Swift News - YouTube Video](https://youtu.be/dOVRpJff3P8)
 
 [Swift 5.5 Released!](https://swift.org/blog/swift-5-5-released/)  
@@ -27,7 +45,7 @@ This repository is home for all the links featured in Swift News.
 [LOL - Apple Connections](https://twitter.com/atomicbird/status/499576229734150144)  
 
 
-# September 1st, 2021
+# September 2021
 [Swift News - YouTube Video](https://youtu.be/r_iw5mbKzOM)
 
 [iOS Dev Jobs](https://iosdevjobs.com)  
@@ -51,7 +69,7 @@ This repository is home for all the links featured in Swift News.
 [LOL - Add More People Tweet](https://twitter.com/_workchronicles/status/1429741661773602822)  
 
 
-# August 2nd, 2021
+# August 2021
 [Swift News - YouTube Video](https://youtu.be/je_VlMQR8v0)
 
 [Async/Await and the Future of Combine](https://benscheirman.com/2021/06/async-await-and-the-future-of-combine/)  
