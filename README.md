@@ -6,6 +6,33 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+
+# July 2022
+[Swift News - YouTube Video](https://youtu.be/9s6OX-CCBuI)
+
+[What’s new in Swift 5.7](https://www.hackingwithswift.com/articles/249/whats-new-in-swift-5-7)  
+[What’s new in SwiftUI for iOS 16](https://www.hackingwithswift.com/articles/250/whats-new-in-swiftui-for-ios-16)  
+[What’s new in Xcode 14?](https://www.hackingwithswift.com/articles/251/whats-new-in-xcode-14)  
+[Swift Charts](https://developer.apple.com/documentation/Charts)  
+[Swift Charts - Examples Repo](https://github.com/jordibruin/Swift-Charts-Examples)  
+[Overview of the new SwiftUI navigation APIs](https://nilcoalescing.com/blog/SwiftUINavigation2022/)  
+[Mastering NavigationStack in SwiftUI. Navigator Pattern.](https://swiftwithmajid.com/2022/06/15/mastering-navigationstack-in-swiftui-navigator-pattern/)  
+[What’s the difference between any and some in Swift 5.7?](https://www.donnywals.com/whats-the-difference-between-any-and-some-in-swift-5-7/)  
+[Using the ‘some’ and ‘any’ keywords to reference generic protocols in Swift 5.7](https://swiftbysundell.com/articles/referencing-generic-protocols-with-some-and-any-keywords/)  
+[iOS 16: Notable UIKit Additions](https://www.swiftjectivec.com/ios-16-notable-uikit-additions/)  
+[Apple - Food Truck Sample Code](https://github.com/apple/sample-food-truck)  
+[New Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)  
+[WWDC 2022: Lessons from the SwiftUI Digital Lounges](https://swiftui-lab.com/digital-lounges-2022/) 
+[Account Deletion](https://developer.apple.com/news/?id=12m75xbj&1653428842) 
+[iCloud Transfers](https://developer.apple.com/news/releases/?id=06152022a) 
+[Twitter Wisdom - No Award For Best Codebase](https://twitter.com/nicklockwood/status/1484111483785170948) 
+[Twitter Wisdom - Improve Your Luck](https://twitter.com/TheAnkurTyagi/status/1533087815755603969) 
+[Xcode Through the Years](http://martiancraft.com/blog/2022/01/xcode-through-the-years/) 
+[AR Corner - Room Plan](https://twitter.com/heyadam/status/1533909047530770432) 
+[LOL - See You Online](https://twitter.com/iamdevloper/status/1528003236556427264) 
+[LOL - Small Delights](https://twitter.com/ismonkeyuser/status/1540213721913610240) 
+
+
 # December 2021
 [Swift News - YouTube Video](https://youtu.be/F6oAuaY28eA)
 
