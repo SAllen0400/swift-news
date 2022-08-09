@@ -6,6 +6,26 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# August 2022
+[Swift News - YouTube Video](https://youtu.be/DMn8J3kOPg4)
+
+[Swift 2022 Announcements](https://www.swift.org/blog/swift-language-updates-from-wwdc22/)  
+[Swift - Visual Studio Code](https://www.swift.org/blog/vscode-extension/)  
+[iPadOS 16 Delay?](https://9to5mac.com/2022/08/03/ipados-16-delay/)  
+[https://www.donnywals.com/closures-in-swift-explained/](https://www.donnywals.com/closures-in-swift-explained/)  
+[Thread Safety in Swift](https://swiftrocks.com/thread-safety-in-swift)  
+[Understanding Certificates and iOS Provisioning Profiles](https://swiftrocks.com/how-certificates-work)  
+[Third-party libraries are no party at all](https://scottberrevoets.com/2022/07/15/third-party-libraries-are-no-party-at-all/)  
+[iOS Dev Job Interview Twitter Thread](https://twitter.com/dylanswl/status/1553157052402307072)  
+[U.S. Spending on Apps Overtakes Games on Apple’s Platform for the First Time Ever](https://sensortower.com/blog/q2-2022-data-digest)  
+[100 Indie Dev Tips - Twitter Thread](https://twitter.com/jakemor/status/1549281861687451648)  
+[ASO is Changing in 2022 — 6½ Trends to Watch](https://appfigures.com/resources/guides/aso-trends-2022)  
+[Why I FINALLY Got into #ASO as an Indie w/ Ryan McLeod from Blackbox](https://www.youtube.com/watch?v=VuQ8l1Nhztk&t=485s)  
+[Twitter - Fun Animation](https://twitter.com/GK3/status/1545071311029805057)  
+[Room Plan Reset](https://twitter.com/strangenative/status/1547227797793284096)  
+[AR Corner - Table Trenches](https://twitter.com/CreationsDb/status/1550287596546273)  
+[AR Corner - Pac-Man](https://twitter.com/officialpacman/status/1550193898479226880) 
+
 
 # July 2022
 [Swift News - YouTube Video](https://youtu.be/9s6OX-CCBuI)
