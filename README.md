@@ -2,9 +2,35 @@
   <img src="https://seanallen-course-backend.herokuapp.com/images/swift-news-logo-white-small.png" />
 </p>
 
-Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  Swift News is released at the beginning of each month.
+Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  Swift News is released on a monthly basis.
 
 This repository is home for all the links featured in Swift News.
+
+# September 2022
+[Swift News - YouTube Video](https://youtu.be/lMChA7N2_Eo)
+
+[MacStories iOS 16 Review](https://www.macstories.net/stories/ios-16-the-macstories-review/)  
+[Xcode 14 Overview](https://developer.apple.com/xcode/)  
+[Xcode Cloud](https://developer.apple.com/xcode-cloud/)  
+[Xcode Cloud - Info Links](https://developer.apple.com/news/?id=076p6dmy)  
+[The SwiftUI Layout Protocol – Part 1](https://swiftui-lab.com/layout-protocol-part-1/)  
+[The SwiftUI Layout Protocol – Part 2](https://swiftui-lab.com/layout-protocol-part-2/)  
+[Choosing the Best Backend for your iOS App](https://brightdigit.com/articles/best-backend-for-your-ios-app/)  
+[Duplication](https://www.codewithjason.com/duplication/)  
+[The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)  
+[Functional Programming 101](https://github.com/readme/guides/functional-programming-basics)  
+[#365DaysIOSAccessibility](https://twitter.com/dadederk/timelines/1563191402569551874)  
+[Twitter Learning - Aivars](https://twitter.com/Aivars_Meijers/status/1564838406278025217)  
+[Twitter Learning - Sean Allen](https://twitter.com/seanallen_dev/status/1567857431853637632)  
+[Twitter - iOS Dev Success Stories](https://twitter.com/codingmilf/status/1524460046335102976)  
+[Getting your first job as a junior developer](https://danijelavrzan.com/posts/2022/08/get-a-job-as-junior/)  
+[Twitter - Good or Bad Code](https://twitter.com/jevakallio/status/1531262225633222658) 
+[Behind the Design: Slopes](https://developer.apple.com/news/?id=wq48r7mj) 
+[What’s a Good Monthly Renewal Rate?](https://www.revenuecat.com/blog/monthly-renewal-rate-in-app-subscriptions/) 
+[Apple Aqua: Exploring the Legacy Of MacOS X User Interface](https://babich.biz/apple-aqua-exploring-the-legacy-of-macos-x-user-interface/) 
+[Twitter - Make Users Read](https://twitter.com/cabel/status/1563952004908875776) 
+[Shopify Reverse AR](https://twitter.com/StrangeNative/status/1562450155080597505) 
+[LOL](https://twitter.com/iamdevloper/status/1565617175557177344) 
 
 # August 2022
 [Swift News - YouTube Video](https://youtu.be/DMn8J3kOPg4)
@@ -12,7 +38,7 @@ This repository is home for all the links featured in Swift News.
 [Swift 2022 Announcements](https://www.swift.org/blog/swift-language-updates-from-wwdc22/)  
 [Swift - Visual Studio Code](https://www.swift.org/blog/vscode-extension/)  
 [iPadOS 16 Delay?](https://9to5mac.com/2022/08/03/ipados-16-delay/)  
-[https://www.donnywals.com/closures-in-swift-explained/](https://www.donnywals.com/closures-in-swift-explained/)  
+[Swift Closures Explained](https://www.donnywals.com/closures-in-swift-explained/)  
 [Thread Safety in Swift](https://swiftrocks.com/thread-safety-in-swift)  
 [Understanding Certificates and iOS Provisioning Profiles](https://swiftrocks.com/how-certificates-work)  
 [Third-party libraries are no party at all](https://scottberrevoets.com/2022/07/15/third-party-libraries-are-no-party-at-all/)  
