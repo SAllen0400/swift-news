@@ -6,6 +6,30 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# October 2022
+[Swift News - YouTube Video](https://youtu.be/7TnnTkqM0eg)
+
+[Mastering Dynamic Island in SwiftUI](https://swiftwithmajid.com/2022/09/28/mastering-dynamic-island-in-swiftui/)  
+[Kavsoft - Dynamic Island Pull to Refresh](https://twitter.com/_Kavsoft/status/1575259997428383745)  
+[Hit the Island](https://twitter.com/ksmolka/status/1569726349673381891)  
+[Lock Screen Widget - Inspiration Thread](https://twitter.com/9to5mac/status/1570100338694230016)  
+[Swift 5.7 Released!](https://www.swift.org/blog/swift-5.7-released/)  
+[Discover the NEW features of Swift 5.7 🤩](https://www.youtube.com/watch?v=azlVfqZcJ_g)  
+[If let shorthand project wide refactoring using Xcode regex search & replace](https://dev.to/vibrazy/if-let-shorthand-project-wide-refactoring-using-xcode-regex-search-replace-enh)  
+[Testing an Apple Watch Ultra in the Scottish Highlands](https://www.david-smith.org/blog/2022/09/28/apple-watch-ultra-scotland/)  
+[HIG - Live Activities](https://developer.apple.com/design/human-interface-guidelines/components/system-experiences/live-activities)  
+[HIG - Charts](https://developer.apple.com/design/human-interface-guidelines/components/content/charts)  
+[HIG - Chart Data](https://developer.apple.com/design/human-interface-guidelines/patterns/charting-data)  
+[Apple Platform Planning Articles](https://twitter.com/cthielen/status/1574989178068094976)  
+[Human Factors in Choosing Technologies](http://www.scottberrevoets.com/2022/09/28/human-factors-in-choosing-technologies/)  
+[30 tips to make you a better iOS developer](https://www.fadel.io/blog/posts/30-tips-to-make-you-a-better-ios-developer/)  
+[App Uses Non-Exempt Encryption](https://twitter.com/KSlazinski/status/1573980451550613504)  
+[How iOS Apps Adapt to the various iPhone 14 Screen Sizes](https://hacknicity.medium.com/how-ios-apps-adapt-to-the-various-iphone-14-screen-sizes-b2504a39b58f)  
+[Xcode 14 - Curly Brace Indent](https://twitter.com/edwardsanchez/status/1570168643962699777)  
+[Side Projects: 10 Tips for being successful](https://www.avanderlee.com/optimization/side-projects-10-tips-for-being-successful/)  
+[How many subscribers should you expect after one year?](https://www.revenuecat.com/blog/one-year-retention-rates-insights/)  
+[Apple Design Resources](https://developer.apple.com/design/resources/#product-bezels)  
+
 # September 2022
 [Swift News - YouTube Video](https://youtu.be/lMChA7N2_Eo)
 
