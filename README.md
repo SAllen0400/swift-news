@@ -11,7 +11,7 @@ This repository is home for all the links featured in Swift News.
 
 [Apple’s use of Swift and SwiftUI in iOS 16](https://blog.timac.org/2022/1005-state-of-swift-and-swiftui-ios16/)  
 [Spotlight on: The Dynamic Island](https://developer.apple.com/news/?id=mis6swzt)  
-[Sean's WidgetKit Course](https://seanallen.teachable.com/courses/enrolled/1858387)  
+[Sean's WidgetKit Course](https://seanallen.teachable.com/p/widgets)  
 [MacOS Ventura - MacStories Review](https://www.macstories.net/stories/macos-ventura-the-macstories-review/2/#content)  
 [Swift Concurrency – Things They Don’t Tell You](https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you)  
 [NSSpain X Videos](https://vimeo.com/showcase/9831667?page=1)  
