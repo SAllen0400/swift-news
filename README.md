@@ -6,6 +6,23 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# November 2022
+[Swift News - YouTube Video](https://youtu.be/BGTFykiTbqs)
+
+[Apple’s use of Swift and SwiftUI in iOS 16](https://blog.timac.org/2022/1005-state-of-swift-and-swiftui-ios16/)  
+[Spotlight on: The Dynamic Island](https://developer.apple.com/news/?id=mis6swzt)  
+[Sean's WidgetKit Course](https://seanallen.teachable.com/courses/enrolled/1858387)  
+[MacOS Ventura - MacStories Review](https://www.macstories.net/stories/macos-ventura-the-macstories-review/2/#content)  
+[Swift Concurrency – Things They Don’t Tell You](https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you)  
+[NSSpain X Videos](https://vimeo.com/showcase/9831667?page=1)  
+[Twitter - Holly Borla - Stand Out as a Jr. Engineer](https://twitter.com/hollyborla/status/1582539540081745921)  
+[Building Things & Raising Children](https://www.swiftjectivec.com/building-things-and-raising-children/)  
+[Twitter - Simple Code Developer Journey](https://twitter.com/flaviocopes/status/1580227345612689408)  
+[Average Subscription Renewal Rates by App Category](https://www.revenuecat.com/blog/average-subscription-renewal-rates-by-app-category/)  
+[SF Symbols 4](https://developer.apple.com/sf-symbols/)  
+[LOL #1](https://twitter.com/engineering_bae/status/1584174868941393920)  
+[LOL #2](https://twitter.com/decodeVeronika/status/1576109643746906112)  
+
 # October 2022
 [Swift News - YouTube Video](https://youtu.be/7TnnTkqM0eg)
 
