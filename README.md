@@ -6,6 +6,21 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# December 2022
+[Swift News - YouTube Video](https://youtu.be/BGTFykiTbqs)
+
+[Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/)  
+[Swift Evolution](https://apple.github.io/swift-evolution/)  
+[App Store Awards celebrate the best apps and games of 2022](https://www.apple.com/newsroom/2022/11/app-store-awards-celebrate-the-best-apps-and-games-of-2022/)  
+[When .animation animates more (or less) than it’s supposed to](https://oleb.net/2022/animation-modifier-position/)  
+[SwiftUI - Pin View to Bottom](https://twitter.com/natpanferova/status/1590676836488732678)  
+[How I made my app 73% lighter](https://sowenjub.me/writes/how-i-made-my-app-73-percent-ligther/)  
+[Pull Requests are a story](https://cocoaphony.micro.blog/2022/11/22/pull-requests-are.html)  
+[Networking in a Large Company](https://twitter.com/shreyas/status/1594531913837907968)  
+[App monetization: two important metrics you probably aren’t tracking](https://superwall.com/blog/app-monetization-two-important-metrics-you-probably-arent-tracking)  
+[Q&A: 10 Questions with Design Evangelism](https://developer.apple.com/news/?id=s8sl4tpa)  
+[LOL](https://www.swiftwithvincent.com/memes)  
+
 # November 2022
 [Swift News - YouTube Video](https://youtu.be/BGTFykiTbqs)
 
