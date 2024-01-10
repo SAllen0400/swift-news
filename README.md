@@ -6,6 +6,24 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# January 2024
+[Swift News - YouTube Video](https://youtu.be/tfRnc3jQtBI)
+
+[Vision Pro Release Announcement](https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/)  
+[Apple Q&A: Spatial design for visionOS](https://developer.apple.com/news/?id=fi8ne6ji)  
+[Apple App Store Awards](https://developer.apple.com/app-store/app-store-awards-2023/)  
+[25 hours of Xcode Cloud now included with the Apple Developer Program](https://developer.apple.com/news/?id=ik9z4ll6)  
+[Upcoming third-party SDK requirements](https://developer.apple.com/support/third-party-SDK-requirements/)  
+[There is no right or wrong in software engineering](https://swiftrocks.com/there-is-no-right-or-wrong-in-software-engineering)  
+[Inferno - Metal shaders for SwiftUI](https://github.com/twostraws/Inferno)  
+[Paul Hudson YouTube - Metal Shaders](https://www.youtube.com/watch?v=jriUylwcnmU)  
+[Swift Leeds Videos](https://www.youtube.com/playlist?list=PL-wmxEeX64YRN8dTs88K6jot_NKmemMLb)  
+[Are Programmers Obsolete?](https://www.youtube.com/watch?v=vpdO5m-pHhQ)  
+[How I'm using ChatGPT for software engineering](https://swiftrocks.com/how-im-using-chatgpt-for-software-engineering) 
+[2023 - My Indie App Business Year In Review](https://roehl.dev/2023-my-indie-app-business-year-in-review) 
+[POW: SwiftUI Effects](https://movingparts.io/pow) 
+[Iced Over](https://twitter.com/marcus_eckert/status/1734245909653848098) 
+
 # December 2022
 [Swift News - YouTube Video](https://youtu.be/BGTFykiTbqs)
 
