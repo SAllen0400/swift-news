@@ -6,6 +6,27 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# February 2024
+[Swift News - YouTube Video](https://youtu.be/Qjbs-nye7CU)
+
+[Apple Vision Pro developer stories and Q&As](https://developer.apple.com/news/?id=tqkgshu3)  
+[Q&A: Building apps for visionOS](https://developer.apple.com/news/?id=prl6dp5r)  
+[visionOS Design Tips](https://twitter.com/settern/status/1752789654787752044)  
+[SF Symbol Combinations](https://twitter.com/alpennec/status/1760318962523336796)  
+[The SwiftUI Field Guide](https://www.swiftuifieldguide.com)  
+[Gosh Darn Format Style!](https://goshdarnformatstyle.com/date-styles//#date-and-time-single-date)  
+[Vortex](https://github.com/twostraws/Vortex)  
+[Understanding and resolving merge conflicts](https://www.donnywals.com/understanding-and-resolving-merge-conflicts/)  
+[BA Swiftable Videos](https://www.youtube.com/playlist?list=PLleLsCcywRxJiefHetSHTVCe5tGErTqUV)  
+[State of Mobile 2024](https://www.data.ai/en/go/state-of-mobile-2024)  
+[A Girl and her @ViewBuilder](https://cuteios.dev/2024/01/10/viewbuilder.html) 
+[Pricing Indie Apps: The Perks of a Wallflower Rule](https://www.swiftjectivec.com/pricing-indie-ios-apps-according-to-perks-of-a-wallflower/) 
+[WeatherUp Interactive Widget](https://twitter.com/drbarnard/status/1750564225318113728) 
+[F1 visionOS Prototype](https://twitter.com/JohnnyMotion/status/1749541360003067968) 
+[visionOS Vacuuming](https://twitter.com/pushmatrix/status/1749797146961006716) 
+[visionOS Vacuuming: Coins](https://twitter.com/pushmatrix/status/1753055948459946193) 
+[visionOS Mirror iPhone](https://twitter.com/mac_cain13/status/1753379284947783996) 
+
 # January 2024
 [Swift News - YouTube Video](https://youtu.be/tfRnc3jQtBI)
 
