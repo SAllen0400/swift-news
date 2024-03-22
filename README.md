@@ -6,6 +6,26 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# March 2024
+[Swift News - YouTube Video](https://youtu.be/lPRwYJeElfg)
+
+[Swift 5.10 Released](https://www.swift.org/blog/swift-5.10-released/)  
+[Everything you need to know about Swift 5.10](https://www.donnywals.com/everything-you-need-to-know-about-swift-5-10/)  
+[Should You Enable Swift's Complete Concurrency Checking?](https://www.massicotte.org/complete-checking)  
+[Holly Borla Swift 6 Tweet](https://twitter.com/hollyborla/status/1758298036667916370)  
+[App Store Screenshots Inspiration](https://scrnshts.club)  
+[20 live iOS paywalls and what to learn from them](https://superwall.com/blog/20-ios-paywalls-in-production)  
+[65 Xcode tips to use Xcode like a pro](https://www.youtube.com/watch?v=sF5CO58oh4o)  
+[Encapsulate and Generalize in Swift](https://scottsmithdev.com/encapsulate-and-generalize-in-swift)  
+[Healthy Codebase Tweet](https://twitter.com/_RikenShah/status/1764175317919305791)  
+[Privacy updates for App Store submissions](https://developer.apple.com/news/?id=3d8a9yyh)  
+[Required Reasons APIs](https://developer.apple.com/documentation/bundleresources/privacy_manifest_files/describing_use_of_required_reason_api) 
+[Privacy Manifest 3rd Party SDK List](https://developer.apple.com/support/third-party-SDK-requirements/) 
+[State of Subscription Apps 2024](https://www.revenuecat.com/state-of-subscription-apps-2024/) 
+[Sub Club Podcast - State of Subscription Apps 2024](https://subclub.com/episode/the-future-of-subscription-apps-why-were-so-excited-for-2024) 
+[visionOS Matrix](https://twitter.com/tracy__henry/status/1764323599320781170) 
+[visionOS Page Curls](https://twitter.com/ryan__stephen/status/1767555575108575374) 
+
 # February 2024
 [Swift News - YouTube Video](https://youtu.be/Qjbs-nye7CU)
 
