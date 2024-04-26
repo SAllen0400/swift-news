@@ -6,6 +6,22 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# April 2024
+[Swift News - YouTube Video](https://youtu.be/Z-imQJ7wrj4)
+
+[New SwiftUI/HealthKit/Charts Course](https://seanallen.teachable.com/p/portfolio-project)  
+[WWDC 2024](https://developer.apple.com/wwdc24/)  
+[Apple Developer YouTube Channel](https://www.youtube.com/@AppleDeveloper/videos)  
+[App Masters YouTube Channel](https://www.youtube.com/@AppMasters/featured)  
+[Removing the M from MVVM with SwiftUI](https://blog.stackademic.com/removing-the-m-from-mvvm-with-swiftui-a58b239e9e3e)  
+[Architecture Twitter Post](https://twitter.com/ue_man/status/1779883677452763143)  
+[The Sound of Software](https://www.notboring.software/words/the-sound-of-software)  
+[Lickability Design Breakdown - Journal App](https://twitter.com/lickability/status/1775577467840872604)  
+[1 Star Reviews - Get Rid of Them](https://twitter.com/KSlazinski/status/1758031955751477370)  
+[Are You a Trader?](https://www.revenuecat.com/blog/growth/am-i-a-trader-and-other-existential-questions-for-developers/)  
+[Basing Indie Releases in Term of Goals](https://www.swiftjectivec.com/releasing-indie-apps-based-on-themes-for-goals/) 
+[visionOS Masters](https://twitter.com/justinryanio/status/1779531992868311122) 
+
 # March 2024
 [Swift News - YouTube Video](https://youtu.be/lPRwYJeElfg)
 
