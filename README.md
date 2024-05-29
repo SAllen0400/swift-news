@@ -6,6 +6,22 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# May 2024
+[Swift News - YouTube Video](https://youtu.be/GbfxGg_TfNs)
+
+[iOS 18 Accessibility Features](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)  
+[Apple Dev Pathways](https://developer.apple.com/pathways/)  
+[visionOS Sample Code - Collision Detection](https://developer.apple.com/documentation/realitykit/simulating-physics-with-collisions-in-your-visionos-app)  
+[visionOS Sample Code - Particles](https://developer.apple.com/documentation/realitykit/simulating-particles-in-your-visionos-app)  
+[Swift Jobs: How to make the right career move](https://www.avanderlee.com/swift/swift-jobs-career-move/)  
+[macOS Settings View](https://paulpeelen.com/SettingsView)  
+[The Composable Architecture: My 3 Year Experience](https://rodschmidt.com/posts/composable-architecture-experience/)  
+[What Does spacing = nil Mean in SwiftUI?](https://fatbobman.com/en/posts/spacing-of-swiftui/)  
+[In-Depth Exploration of Overlay and Background Modifiers in SwiftUI](https://fatbobman.com/en/posts/in-depth-exploration-of-overlay-and-background-modifiers-in-swiftui/)  
+[Deep Dish Swift 2024 Talk - Stewart Lynch](https://www.youtube.com/watch?v=_XZHzl3R1Fo)  
+[API Key Security](https://x.com/toddham/status/1783939397596885061) 
+[Jordi Bruin - Learn By Doing. Understanding spatial computing one small app at a time](https://www.youtube.com/watch?v=cvjAzMFMnvc) 
+
 # April 2024
 [Swift News - YouTube Video](https://youtu.be/Z-imQJ7wrj4)
 
