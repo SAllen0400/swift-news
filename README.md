@@ -51,12 +51,12 @@ This repository is home for all the links featured in Swift News.
 [Encapsulate and Generalize in Swift](https://scottsmithdev.com/encapsulate-and-generalize-in-swift)  
 [Healthy Codebase Tweet](https://twitter.com/_RikenShah/status/1764175317919305791)  
 [Privacy updates for App Store submissions](https://developer.apple.com/news/?id=3d8a9yyh)  
-[Required Reasons APIs](https://developer.apple.com/documentation/bundleresources/privacy_manifest_files/describing_use_of_required_reason_api) 
-[Privacy Manifest 3rd Party SDK List](https://developer.apple.com/support/third-party-SDK-requirements/) 
-[State of Subscription Apps 2024](https://www.revenuecat.com/state-of-subscription-apps-2024/) 
-[Sub Club Podcast - State of Subscription Apps 2024](https://subclub.com/episode/the-future-of-subscription-apps-why-were-so-excited-for-2024) 
-[visionOS Matrix](https://twitter.com/tracy__henry/status/1764323599320781170) 
-[visionOS Page Curls](https://twitter.com/ryan__stephen/status/1767555575108575374) 
+[Required Reasons APIs](https://developer.apple.com/documentation/bundleresources/privacy_manifest_files/describing_use_of_required_reason_api)  
+[Privacy Manifest 3rd Party SDK List](https://developer.apple.com/support/third-party-SDK-requirements/)  
+[State of Subscription Apps 2024](https://www.revenuecat.com/state-of-subscription-apps-2024/)  
+[Sub Club Podcast - State of Subscription Apps 2024](https://subclub.com/episode/the-future-of-subscription-apps-why-were-so-excited-for-2024)  
+[visionOS Matrix](https://twitter.com/tracy__henry/status/1764323599320781170)  
+[visionOS Page Curls](https://twitter.com/ryan__stephen/status/1767555575108575374)  
 
 # February 2024
 [Swift News - YouTube Video](https://youtu.be/Qjbs-nye7CU)
@@ -71,13 +71,13 @@ This repository is home for all the links featured in Swift News.
 [Understanding and resolving merge conflicts](https://www.donnywals.com/understanding-and-resolving-merge-conflicts/)  
 [BA Swiftable Videos](https://www.youtube.com/playlist?list=PLleLsCcywRxJiefHetSHTVCe5tGErTqUV)  
 [State of Mobile 2024](https://www.data.ai/en/go/state-of-mobile-2024)  
-[A Girl and her @ViewBuilder](https://cuteios.dev/2024/01/10/viewbuilder.html) 
-[Pricing Indie Apps: The Perks of a Wallflower Rule](https://www.swiftjectivec.com/pricing-indie-ios-apps-according-to-perks-of-a-wallflower/) 
-[WeatherUp Interactive Widget](https://twitter.com/drbarnard/status/1750564225318113728) 
-[F1 visionOS Prototype](https://twitter.com/JohnnyMotion/status/1749541360003067968) 
-[visionOS Vacuuming](https://twitter.com/pushmatrix/status/1749797146961006716) 
-[visionOS Vacuuming: Coins](https://twitter.com/pushmatrix/status/1753055948459946193) 
-[visionOS Mirror iPhone](https://twitter.com/mac_cain13/status/1753379284947783996) 
+[A Girl and her @ViewBuilder](https://cuteios.dev/2024/01/10/viewbuilder.html)  
+[Pricing Indie Apps: The Perks of a Wallflower Rule](https://www.swiftjectivec.com/pricing-indie-ios-apps-according-to-perks-of-a-wallflower/)  
+[WeatherUp Interactive Widget](https://twitter.com/drbarnard/status/1750564225318113728)  
+[F1 visionOS Prototype](https://twitter.com/JohnnyMotion/status/1749541360003067968)  
+[visionOS Vacuuming](https://twitter.com/pushmatrix/status/1749797146961006716)  
+[visionOS Vacuuming: Coins](https://twitter.com/pushmatrix/status/1753055948459946193)  
+[visionOS Mirror iPhone](https://twitter.com/mac_cain13/status/1753379284947783996)  
 
 # January 2024
 [Swift News - YouTube Video](https://youtu.be/tfRnc3jQtBI)
@@ -92,10 +92,10 @@ This repository is home for all the links featured in Swift News.
 [Paul Hudson YouTube - Metal Shaders](https://www.youtube.com/watch?v=jriUylwcnmU)  
 [Swift Leeds Videos](https://www.youtube.com/playlist?list=PL-wmxEeX64YRN8dTs88K6jot_NKmemMLb)  
 [Are Programmers Obsolete?](https://www.youtube.com/watch?v=vpdO5m-pHhQ)  
-[How I'm using ChatGPT for software engineering](https://swiftrocks.com/how-im-using-chatgpt-for-software-engineering) 
-[2023 - My Indie App Business Year In Review](https://roehl.dev/2023-my-indie-app-business-year-in-review) 
-[POW: SwiftUI Effects](https://movingparts.io/pow) 
-[Iced Over](https://twitter.com/marcus_eckert/status/1734245909653848098) 
+[How I'm using ChatGPT for software engineering](https://swiftrocks.com/how-im-using-chatgpt-for-software-engineering)  
+[2023 - My Indie App Business Year In Review](https://roehl.dev/2023-my-indie-app-business-year-in-review)  
+[POW: SwiftUI Effects](https://movingparts.io/pow)  
+[Iced Over](https://twitter.com/marcus_eckert/status/1734245909653848098)  
 
 # December 2022
 [Swift News - YouTube Video](https://youtu.be/BGTFykiTbqs)
@@ -197,7 +197,7 @@ This repository is home for all the links featured in Swift News.
 [Twitter - Fun Animation](https://twitter.com/GK3/status/1545071311029805057)  
 [Room Plan Reset](https://twitter.com/strangenative/status/1547227797793284096)  
 [AR Corner - Table Trenches](https://twitter.com/CreationsDb/status/1550287596546273)  
-[AR Corner - Pac-Man](https://twitter.com/officialpacman/status/1550193898479226880) 
+[AR Corner - Pac-Man](https://twitter.com/officialpacman/status/1550193898479226880)  
 
 
 # July 2022
@@ -476,7 +476,7 @@ No Episode - Break
 [Transparent App Icons Blog Post](https://noahgilmore.com/blog/transparent-app-icons/)  
 [Video on GitHub](https://github.blog/changelog/2020-12-16-video-upload-public-beta/)  
 [AR Corner - Magazine Cover](https://twitter.com/LeahLundqvist/status/1337180228268003331)  
-[AR Corner - Bitmoji Body](https://twitter.com/ARstories/status/1334540839582900226) 
+[AR Corner - Bitmoji Body](https://twitter.com/ARstories/status/1334540839582900226)  
 [LOL](https://twitter.com/KyleMorgenstein/status/1338551698332258304)  
 
 
