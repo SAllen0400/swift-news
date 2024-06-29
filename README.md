@@ -6,6 +6,23 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# June 2024
+[Swift News - YouTube Video](https://youtu.be/jn1sYfLnvq4)
+
+[Apple Intelligence - Keynote](https://youtu.be/RXeOiIDNNek?t=3966)  
+[What's New in SwiftUI for iOS 18](https://www.hackingwithswift.com/articles/270/whats-new-in-swiftui-for-ios-18)  
+[Animated Mesh Gradients](https://x.com/dankuntz/status/1800290461351035346)  
+[Mesh Gradient Text Foreground](https://x.com/dsteppenbeck/status/1800498133157523840)  
+[What's New in SwiftUI - WWDC 2024](https://developer.apple.com/videos/play/wwdc2024/10144/)  
+[Swift Testing](https://developer.apple.com/documentation/Testing)  
+[SF Symbols 6](https://developer.apple.com/sf-symbols/)  
+[iOS 18: Notable UIKit Additions](https://www.swiftjectivec.com/ios-18-notable-uikit-additions/)  
+[Apple's WWDC 2024 Highlights](https://developer.apple.com/news/?id=o38yplz0)  
+[Apple Design Award Winners](https://developer.apple.com/design/awards/)  
+[Reviewing Key SwiftUI Upgrades from 2019 to 2023 and Their Impact](https://fatbobman.com/en/posts/before-wwdc-2024/) 
+[LookUp at 10](https://blog.viditb.com/lookup-at-10/) 
+[Mobile App - Visual Heirarchy](https://x.com/zander_supafast/status/1802684455670136954) 
+
 # May 2024
 [Swift News - YouTube Video](https://youtu.be/GbfxGg_TfNs)
 
