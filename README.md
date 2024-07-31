@@ -6,6 +6,24 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# July 2024
+[Swift News - YouTube Video](https://youtu.be/tQpGS7LixB8)
+
+[Swift 6 - Problem](https://kean.blog/post/swift-6)  
+[Migrating to Swift 6](https://www.swift.org/migration/documentation/migrationguide/)  
+[Migrate your app to Swift 6 - WWDC 2024 Video](https://developer.apple.com/videos/play/wwdc2024/10169/)  
+[Plotting a Path to a Package Ecosystem without Data Race Errors](https://www.swift.org/blog/ready-for-swift-6/)  
+[SwiftUI Field Guide - LazyVGrid](https://www.swiftuifieldguide.com/layout/lazyvgrid/)  
+[Customizing the appearance of symbol images in SwiftUI](https://nilcoalescing.com/blog/CustomizingTheAppearanceOfSymbolImagesInSwiftUI/)  
+[App Intents Tutorial: A Field Guide for iOS Developers](https://superwall.com/blog/an-app-intents-field-guide-for-ios-developers)  
+[List or LazyVStack: Choosing the Right Lazy Container in SwiftUI](https://fatbobman.com/en/posts/list-or-lazyvstack/)  
+[This is The Most Important Trend Every App Developer Must Know About](https://appfigures.com/resources/insights/20240712/2-this-is-the-most-important-trend-every-app-developer-must-know-about)  
+[Preparing your App Icon for dark and tinted appearance](https://www.createwithswift.com/preparing-your-app-icon-for-dark-and-tinted-appearance/)  
+[What’s new in App Store Connect](https://developer.apple.com/videos/play/wwdc2024/10063/?time=1063) 
+[Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/) 
+[WWDC24: Key Updates for macOS Development with SwiftUI](https://x.com/zander_supafast/status/1802684455670136954) 
+[Optimzing Code is Like Art - Tweet](https://x.com/iamdevloper/status/1815763851767369957) 
+
 # June 2024
 [Swift News - YouTube Video](https://youtu.be/jn1sYfLnvq4)
 
