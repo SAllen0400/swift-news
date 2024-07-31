@@ -21,7 +21,7 @@ This repository is home for all the links featured in Swift News.
 [Preparing your App Icon for dark and tinted appearance](https://www.createwithswift.com/preparing-your-app-icon-for-dark-and-tinted-appearance/)  
 [What’s new in App Store Connect](https://developer.apple.com/videos/play/wwdc2024/10063/?time=1063) 
 [Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/) 
-[WWDC24: Key Updates for macOS Development with SwiftUI](https://x.com/zander_supafast/status/1802684455670136954) 
+[WWDC24: Key Updates for macOS Development with SwiftUI](https://youtube.com/watch?v=YcRpTXvZZZk) 
 [Optimzing Code is Like Art - Tweet](https://x.com/iamdevloper/status/1815763851767369957) 
 
 # June 2024
