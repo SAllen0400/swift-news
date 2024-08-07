@@ -19,9 +19,9 @@ This repository is home for all the links featured in Swift News.
 [List or LazyVStack: Choosing the Right Lazy Container in SwiftUI](https://fatbobman.com/en/posts/list-or-lazyvstack/)  
 [This is The Most Important Trend Every App Developer Must Know About](https://appfigures.com/resources/insights/20240712/2-this-is-the-most-important-trend-every-app-developer-must-know-about)  
 [Preparing your App Icon for dark and tinted appearance](https://www.createwithswift.com/preparing-your-app-icon-for-dark-and-tinted-appearance/)  
-[What’s new in App Store Connect](https://developer.apple.com/videos/play/wwdc2024/10063/?time=1063) 
-[Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/) 
-[WWDC24: Key Updates for macOS Development with SwiftUI](https://youtube.com/watch?v=YcRpTXvZZZk) 
+[What’s new in App Store Connect](https://developer.apple.com/videos/play/wwdc2024/10063/?time=1063)  
+[Why macOS Development is Perfect for Indie Developers](https://www.avanderlee.com/swiftui/macos-development-powerful-utilities/)  
+[WWDC24: Key Updates for macOS Development with SwiftUI](https://youtube.com/watch?v=YcRpTXvZZZk)  
 [Optimzing Code is Like Art - Tweet](https://x.com/iamdevloper/status/1815763851767369957) 
 
 # June 2024
@@ -37,8 +37,8 @@ This repository is home for all the links featured in Swift News.
 [iOS 18: Notable UIKit Additions](https://www.swiftjectivec.com/ios-18-notable-uikit-additions/)  
 [Apple's WWDC 2024 Highlights](https://developer.apple.com/news/?id=o38yplz0)  
 [Apple Design Award Winners](https://developer.apple.com/design/awards/)  
-[Reviewing Key SwiftUI Upgrades from 2019 to 2023 and Their Impact](https://fatbobman.com/en/posts/before-wwdc-2024/) 
-[LookUp at 10](https://blog.viditb.com/lookup-at-10/) 
+[Reviewing Key SwiftUI Upgrades from 2019 to 2023 and Their Impact](https://fatbobman.com/en/posts/before-wwdc-2024/)  
+[LookUp at 10](https://blog.viditb.com/lookup-at-10/)  
 [Mobile App - Visual Heirarchy](https://x.com/zander_supafast/status/1802684455670136954) 
 
 # May 2024
@@ -70,7 +70,7 @@ This repository is home for all the links featured in Swift News.
 [Lickability Design Breakdown - Journal App](https://twitter.com/lickability/status/1775577467840872604)  
 [1 Star Reviews - Get Rid of Them](https://twitter.com/KSlazinski/status/1758031955751477370)  
 [Are You a Trader?](https://www.revenuecat.com/blog/growth/am-i-a-trader-and-other-existential-questions-for-developers/)  
-[Basing Indie Releases in Term of Goals](https://www.swiftjectivec.com/releasing-indie-apps-based-on-themes-for-goals/) 
+[Basing Indie Releases in Term of Goals](https://www.swiftjectivec.com/releasing-indie-apps-based-on-themes-for-goals/)  
 [visionOS Masters](https://twitter.com/justinryanio/status/1779531992868311122) 
 
 # March 2024
