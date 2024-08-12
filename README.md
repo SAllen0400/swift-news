@@ -6,6 +6,19 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# August 2024
+[Swift News - YouTube Video](https://youtu.be/zretcAZRoLU)
+
+[RevenueCat Ship-a-ton](https://www.revenuecat.com/blog/engineering/revenuecat-ship-a-ton/)  
+[RevenueCat Ship-a-ton: Registration](https://revenuecat-ship-a-ton.devpost.com)  
+[The way we interact with apps is changing, so should the way they are designed.](https://blog.viditb.com/action-centered-design/)  
+[App Intents - Curated iOS](https://curatedios.substack.com/p/10-app-intents)  
+[Common Misconceptions About SwiftUI](https://fatbobman.com/en/posts/common-misconceptions-about-swiftui/)  
+[A Swift Tour: Explore Swift’s features and design](https://developer.apple.com/videos/play/wwdc2024/10184/)  
+[Making mistakes while learning Swift](https://www.hackingwithswift.com/articles/271/making-mistakes-while-learning-swift)  
+[Going Indie: From Side Project to Going Independent](https://www.avanderlee.com/general/from-side-project-to-going-indie/)  
+[App Figures & Jake Mor - Paywall Tear downs](https://youtu.be/DRei11LUYlE?t=1580)  
+
 # July 2024
 [Swift News - YouTube Video](https://youtu.be/tQpGS7LixB8)
 
