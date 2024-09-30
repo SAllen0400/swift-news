@@ -6,6 +6,22 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# September 2024
+[Swift News - YouTube Video](https://youtu.be/LOrB85Ej2yk)  
+
+[Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)  
+[Migrating the TelemetryDeck SDK to Swift 6](https://telemetrydeck.com/blog/migrating-to-swift-6/)  
+[Upcoming requirements for app distribution in the European Union](https://developer.apple.com/news/?id=a0nevv65)  
+[SwiftUI's Observable macro is not a drop-in replacement for ObservableObject](https://www.jessesquires.com/blog/2024/09/09/swift-observable-macro/)  
+[Flavio AI Tweet](https://x.com/flaviocopes/status/1830023922240127258)  
+[Xcode Folders & Groups](https://troz.net/post/2024/xcode_folders_groups/)  
+[Xcode templates, projects, targets, schemes and workspaces - Steward Lynch](https://www.youtube.com/watch?v=iComTMVqgXA)  
+[2024 Ship-a-ton Winners](https://www.revenuecat.com/blog/company/2024-ship-a-ton-winners/)  
+[Antoine Van Der Lee - Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie)  
+[Hierarchical background styles in SwiftUI](https://nilcoalescing.com/blog/HierarchicalBackgroundStyles/)  
+[Github contribution graph with Swift Charts](https://www.artemnovichkov.com/blog/github-contribution-graph-swift-charts)  
+[Web Dev - My honest opinion about SwiftUI vs Flutter vs React Native to build iOS apps](https://www.youtube.com/watch?v=OCwcedYTKDc)  
+
 # August 2024
 [Swift News - YouTube Video](https://youtu.be/zretcAZRoLU)
 
