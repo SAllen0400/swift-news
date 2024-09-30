@@ -17,7 +17,7 @@ This repository is home for all the links featured in Swift News.
 [Xcode Folders & Groups](https://troz.net/post/2024/xcode_folders_groups/)  
 [Xcode templates, projects, targets, schemes and workspaces - Steward Lynch](https://www.youtube.com/watch?v=iComTMVqgXA)  
 [2024 Ship-a-ton Winners](https://www.revenuecat.com/blog/company/2024-ship-a-ton-winners/)  
-[Antoine Van Der Lee - Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie)  
+[Antoine Van Der Lee - Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?affcode=2082304_o9res6rn)  
 [Hierarchical background styles in SwiftUI](https://nilcoalescing.com/blog/HierarchicalBackgroundStyles/)  
 [Github contribution graph with Swift Charts](https://www.artemnovichkov.com/blog/github-contribution-graph-swift-charts)  
 [Web Dev - My honest opinion about SwiftUI vs Flutter vs React Native to build iOS apps](https://www.youtube.com/watch?v=OCwcedYTKDc)  
