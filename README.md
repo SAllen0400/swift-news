@@ -6,6 +6,19 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# October 2024
+[Swift News - YouTube Video](https://youtu.be/Mj4X7BrGlME)  
+
+[GitHub Copilot code completion in Xcode is now available in public preview](https://github.blog/changelog/2024-10-29-github-copilot-code-completion-in-xcode-is-now-available-in-public-preview/)  
+[GitHub Copilot for Xcode](https://dimillian.medium.com/github-copilot-for-xcode-62931a645173)  
+[How to use VSCode/Cursor for iOS development](https://dimillian.medium.com/how-to-use-cursor-for-ios-development-54b912c23941)  
+[Exploring Indie Life: Reducing Friction with Cursor](https://www.rudrank.com/tag/cursor/page/2/)  
+[Swift Student Challenge](https://developer.apple.com/swift-student-challenge/)  
+[High Performance Swift Apps](https://blog.jacobstechtavern.com/p/high-performance-swift-apps)  
+[Working at startups vs large companies](https://swiftrocks.com/working-at-startups-vs-large-companies)  
+[Beware UserDefaults: a tale of hard to find bugs, and lost data](https://christianselig.com/2024/10/beware-userdefaults/)  
+[SwiftUI Animations](https://www.youtube.com/watch?v=mzpZNaseAIE)  
+
 # September 2024
 [Swift News - YouTube Video](https://youtu.be/LOrB85Ej2yk)  
 
