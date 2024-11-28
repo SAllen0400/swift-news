@@ -6,6 +6,18 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# November 2024
+[Swift News - YouTube Video](https://youtu.be/zhRyjt6jwPs)  
+
+[ChatGPT for macOS can now work with Xcode](https://dimillian.medium.com/chatgpt-for-macos-can-now-work-with-xcode-28cecc9decf7)  
+[Rudrank Tweet - ChatGPT + Xcode](https://x.com/rudrankriyam/status/1857131031436099631)  
+[Manage European Union Digital Services Act trader requirements](https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-trader-requirements/)  
+[Mastering container views in SwiftUI.](https://swiftwithmajid.com/2024/09/24/mastering-container-views-in-swiftui-basics/)  
+[Our most loved SwiftUI modifiers](https://mobileappcircular.com/our-most-loved-swiftui-modifiers-b7ba26216f88)  
+[MainActor usage in Swift explained to dispatch to the main thread](https://www.avanderlee.com/swift/mainactor-dispatch-main-thread/)  
+[Elite Hoops Year One: 12 Bite-Sized Lessons](https://www.swiftjectivec.com/elite-hoops-gaining-users-as-an-indie-app-with-paid-ads-and-lessons-learned/)  
+[Oh no, I need to design a tinted iOS 18 app icon](https://www.sketch.com/blog/tinted-app-icons/)  
+
 # October 2024
 [Swift News - YouTube Video](https://youtu.be/Mj4X7BrGlME)  
 
