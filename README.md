@@ -6,6 +6,18 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# December 2024
+[Swift News - YouTube Video](https://youtu.be/paluEe35TeA)  
+
+[Apple’s use of Swift and SwiftUI in iOS 18](https://blog.timac.org/2024/1208-state-of-swift-and-swiftui-ios18/)  
+[Apple honors 2024 App Store Award winners](https://www.apple.com/newsroom/2024/12/apple-honors-2024-app-store-award-winners/)  
+[Improving the approachability of data-race safety](https://github.com/hborla/swift-evolution/blob/approachable-concurrency-vision/visions/approachable-concurrency.md)  
+[Dev Conversations #4: Matt Massicotte](https://swifttoolkit.dev/posts/dc-matt-massicotte)  
+[Focus not on the task, but on the problem behind the task](https://swiftrocks.com/focus-not-on-the-task-but-on-the-problem-behind-the-task)  
+[The essential guide to paywalls for subscription apps](https://www.revenuecat.com/blog/growth/guide-to-mobile-paywalls-subscription-apps/)  
+[Hidde van der Ploeg & Pol Piella](https://indiegoodies.com/interviews/hiddevdploeg_pol_piella)  
+[Navigating Pitfalls: The Do's and Don'ts of Gestural Interfaces](https://www.createwithswift.com/navigating-pitfalls-the-dos-and-donts-of-gestural-interfaces/)  
+
 # November 2024
 [Swift News - YouTube Video](https://youtu.be/zhRyjt6jwPs)  
 
