@@ -6,6 +6,19 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# January 2025
+[Swift News - YouTube Video](https://youtu.be/mnzyvJheMJY)  
+
+[Write Swift Like Apple.](https://medium.com/@uwaisalqadri/write-swift-like-apple-4c4331cf140c)  
+[Write Swift Like Apple. Part 2](https://medium.com/@uwaisalqadri/write-swift-like-apple-part-2-44e025e51824)  
+[Airbnb Swift Style Guide](https://github.com/airbnb/swift)  
+[Swift Student Challenge](https://developer.apple.com/swift-student-challenge/)  
+[Lena's Swift Student Challenge Experience](https://fancygoose.dev/posts/StudentChallenge/)  
+[A Tech Interview That Doesn't Suck](https://blog.jacobstechtavern.com/p/a-tech-interview-that-doesnt-suck)  
+[How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)  
+[Accomplish One Thing](https://david-smith.org/blog/2025/01/10/accomplish-one-thing/)  
+[How paid campaigns affect your app’s organic traffic](https://www.revenuecat.com/blog/growth/how-paid-campaigns-affect-your-apps-organic-traffic/)  
+
 # December 2024
 [Swift News - YouTube Video](https://youtu.be/paluEe35TeA)  
 
