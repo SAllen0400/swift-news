@@ -6,6 +6,17 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 This repository is home for all the links featured in Swift News.
 
+# February 2025
+[Swift News - YouTube Video](https://youtu.be/hnXkn38DMTs)  
+
+[The Next Chapter in Swift Build Technologies](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/)  
+[How I Stole Your ChatGPT API Keys](https://blog.jacobstechtavern.com/p/how-i-stole-your-api-keys)  
+[A Swift Concurrency Glossary](https://www.massicotte.org/concurrency-glossary)  
+[Holly Borla Post on Bluesky](https://bsky.app/profile/hborla.bsky.social/post/3linpoozjrc2z)  
+[New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning)  
+[Things that did (and didn't) contribute to Burnout Buddy's success](https://swiftrocks.com/things-that-did-and-didnt-contribute-to-burnout-buddys-success)  
+[NBA Vision Pro App](https://x.com/faythebest/status/1889505877549330517)  
+
 # January 2025
 [Swift News - YouTube Video](https://youtu.be/mnzyvJheMJY)  
 
