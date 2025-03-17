@@ -4,9 +4,19 @@
 
 Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  
 
-‼️ As of March 2025, Swift News releases every Monday along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get Swift News links in your inbox every Monday.  
+As of March 2025, Swift News releases every Monday along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get Swift News in your inbox every Monday. This repository is home for all the links featured in Swift News.
 
-This repository is home for all the links featured in older versions of Swift News (before the newsletter existed). It will not be updated for the new weekly edition of Swift News.
+# March 17, 2025
+[Swift News - YouTube Video](https://youtu.be/ZzduOEZqQSc)  
+
+[iOS Versions Market Share in 2025](https://telemetrydeck.com/survey/apple/iOS/majorSystemVersions/)  
+[An Ode to Swift Enums: The View Models That Could](https://www.swiftjectivec.com/swift-enums-as-lighweight-view-models/)  
+[AiOS Dispatch 1](https://www.rudrank.com/aios-dispatch-1/)  
+[Key Considerations Before Using SwiftData](https://fatbobman.com/en/posts/key-considerations-before-using-swiftdata/)  
+[Why you should keep your git commits small and meaningful](https://www.donnywals.com/why-you-should-keep-your-git-commits-small-and-meaningful/)  
+[Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)  
+[The Software Engineer Spectrum: Speed vs. Accuracy](https://benhowdle.im/software-engineer-spectrum.html)  
+[SDK Icon Maker](https://x.com/mtj_j/status/1899044431283531848/photo/4)  
 
 # February 2025
 [Swift News - YouTube Video](https://youtu.be/hnXkn38DMTs)  
