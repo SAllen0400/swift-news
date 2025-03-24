@@ -6,6 +6,15 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases every Monday along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get Swift News in your inbox every Monday. This repository is home for all the links featured in Swift News.
 
+# March 24, 2025
+[Swift News - YouTube Video](https://youtu.be/wDBu7C5Wl9s)  
+
+[State of Subscription Apps 2025](https://www.revenuecat.com/state-of-subscription-apps-2025/)  
+[Choosing Optimism about iOS 19](https://www.david-smith.org/blog/2025/03/17/optimism/)  
+[Behind the Scenes of Async Functions](https://vbat.dev/behind-the-scenes-of-async-functions)  
+[How to Plan a Migration to Swift 6](https://www.donnywals.com/how-to-plan-a-migration-to-swift-6/)  
+[Screen Design Inspiration](https://screensdesign.com)  
+
 # March 17, 2025
 [Swift News - YouTube Video](https://youtu.be/ZzduOEZqQSc)  
 
