@@ -6,6 +6,15 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases every Monday along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get Swift News in your inbox every Monday. This repository is home for all the links featured in Swift News.
 
+# March 31, 2025
+[Swift News - YouTube Video](https://youtu.be/b-DqRLjsTyk)  
+
+[WWDC25 - Apple Developer](https://developer.apple.com/wwdc25/)  
+[The Simple Life(cycle) of a SwiftUI View in 2025](https://captainswiftui.substack.com/p/the-simple-lifecycle-of-a-swiftui)  
+[Under the Hood: SwiftUI - Medium](https://medium.com/ios-gems/under-the-hood-swiftui-93ae7f0ae830)  
+[Death by papercut (why small optimizations matter) – Donny Wals](https://www.donnywals.com/death-by-papercut-why-small-optimizations-matter/)  
+[Dare to test an ugly paywall? Here's why you should - RevenueCat](https://www.revenuecat.com/blog/growth/ugly-paywalls-conversion-testing/)
+
 # March 24, 2025
 [Swift News - YouTube Video](https://youtu.be/wDBu7C5Wl9s)  
 
