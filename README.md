@@ -6,6 +6,16 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases every Monday along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get Swift News in your inbox every Monday. This repository is home for all the links featured in Swift News.
 
+# April 7, 2025
+[Swift News - YouTube Video](https://youtu.be/Zg4ys3u6F5E)  
+
+[Swift 6.1 Released](https://www.swift.org/blog/swift-6.1-released/)  
+[Swift by Sundell is back!](https://www.swiftbysundell.com/special/swift-by-sundell-is-back/)  
+[Modern URL construction in Swift](https://www.swiftbysundell.com/articles/modern-url-construction-in-swift/)  
+[Instruments Tutorials](https://developer.apple.com/tutorials/instruments)  
+[Say Goodbye to dismiss: A State-Driven Path to More Maintainable SwiftUI](https://fatbobman.com/en/posts/say-goodbye-to-dismiss/)  
+[SwiftUI Experiments Repo](https://github.com/mikelikesdesign/SwiftUI-experiments?tab=readme-ov-file)
+
 # March 31, 2025
 [Swift News - YouTube Video](https://youtu.be/b-DqRLjsTyk)  
 
