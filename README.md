@@ -6,6 +6,16 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases every Monday along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get Swift News in your inbox every Monday. This repository is home for all the links featured in Swift News.
 
+# April 14, 2025
+[Swift News - YouTube Video](https://youtu.be/cWeTwNahX_M)  
+
+[WWDC25 wishes](https://swiftwithmajid.com/2025/04/08/wwdc25-wishes/)  
+[Why I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/)  
+[SwiftUI Craftsmanship: State Management](https://captainswiftui.substack.com/p/swiftui-craftsmanship-state-management)  
+[The Great App That Nobody Knows About](https://www.swiftjectivec.com/a-great-app-that-no-one-knows-about/)  
+[Elite Hoops MMR Tweet](https://x.com/JordanMorgan10/status/1723734348522803652)  
+[Is monetization hurting your app’s user experience?](https://www.revenuecat.com/blog/growth/is-monetization-hurting-your-apps-user-experience/)
+
 # April 7, 2025
 [Swift News - YouTube Video](https://youtu.be/Zg4ys3u6F5E)  
 
