@@ -6,6 +6,16 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases every Monday along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get Swift News in your inbox every Monday. This repository is home for all the links featured in Swift News.
 
+# April 21, 2025
+[Swift News - YouTube Video](https://youtu.be/FsVbZftrPTQ)  
+
+[Swift Reduce: Combining elements into a single value](https://www.avanderlee.com/swift/swift-reduce-combining-elements-into-a-single-value/)  
+[try! Swift Conference – YouTube Channel](https://www.youtube.com/@trySwiftConference/videos)  
+[How to inspect .ipa files and secure your iOS app from common mistakes](https://www.artemnovichkov.com/blog/how-to-inspect-ipa-files)  
+[Greg Isenberg's Tweet](https://x.com/gregisenberg/status/1911467353436463340)  
+[The Ultimate Guide on How to Set Up an Apple Search Ads Campaign the Right Way](https://superwall.com/blog/the-ultimate-guide-on-how-to-set-up-an-apple-search-ads-campaign-the-right)  
+[How I'm using AI to improve my software engineering productivity](https://swiftrocks.com/how-im-using-ai-for-software-engineering)
+
 # April 14, 2025
 [Swift News - YouTube Video](https://youtu.be/cWeTwNahX_M)  
 
