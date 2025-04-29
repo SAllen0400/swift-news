@@ -6,6 +6,18 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases every Monday along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get Swift News in your inbox every Monday. This repository is home for all the links featured in Swift News.
 
+
+# April 28, 2025
+[Swift News - YouTube Video](https://youtu.be/pnAT-PJrV5E)  
+
+[Advice to My Younger Self](https://www.mobilesystemdesign.com/blog/advice-to-younger-self/)  
+[Native visionOS platform support #105628](https://github.com/godotengine/godot/pull/105628)  
+[Godot Engine](https://godotengine.org/)  
+[Swift Measurements](https://troz.net/post/2025/swift-measurements/)  
+[YouTube - Special Effects with SwiftUI Text](https://www.youtube.com/watch?v=NkLdOwIoeaI)  
+[Creating, testing and releasing your first iOS subscription product and app to the App Store](https://superwall.com/blog/creating-testing-and-releasing-your-first-ios-subscription-product-and-app)  
+[Flappy Swift](https://sliemeobn.github.io/flappy-swift/)
+
 # April 21, 2025
 [Swift News - YouTube Video](https://youtu.be/FsVbZftrPTQ)  
 
