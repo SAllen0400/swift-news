@@ -6,6 +6,19 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases every Monday along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get Swift News in your inbox every Monday. This repository is home for all the links featured in Swift News.
 
+# June 16, 2025
+[Swift News - YouTube Video](https://youtu.be/14ZpgTJ5I0Q)  
+
+[Meet Liquid Glass](https://developer.apple.com/videos/play/wwdc2025/219)  
+[Meet the Foundation Models framework](https://developer.apple.com/videos/play/wwdc2025/286)  
+[Create icons with Icon Composer](https://developer.apple.com/videos/play/wwdc2025/361)  
+[What’s new in Xcode 26](https://developer.apple.com/videos/play/wwdc2025/247)  
+[What’s new in SF Symbols 7](https://developer.apple.com/videos/play/wwdc2025/337)  
+[Apple Design (Human Interface Guidelines)](https://developer.apple.com/design/)  
+[Apple Design Awards 2025 Winners & Finalists](https://www.apple.com/newsroom/2025/06/apple-unveils-winners-and-finalists-of-the-2025-apple-design-awards/)  
+[App Store ASO Algorithm Update](https://appfigures.com/resources/guides/app-store-algorithm-update-2025)  
+[Stop Over‑thinking AI Subscriptions](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)  
+[Swift.org)](https://www.swift.org/)
 
 # April 28, 2025
 [Swift News - YouTube Video](https://youtu.be/pnAT-PJrV5E)  
