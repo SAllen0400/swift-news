@@ -18,7 +18,7 @@ Swift News releases every Monday along with an email newsletter. [Subscribe](htt
 [Apple Design Awards 2025 Winners & Finalists](https://www.apple.com/newsroom/2025/06/apple-unveils-winners-and-finalists-of-the-2025-apple-design-awards/)  
 [App Store ASO Algorithm Update](https://appfigures.com/resources/guides/app-store-algorithm-update-2025)  
 [Stop Over‑thinking AI Subscriptions](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)  
-[Swift.org)](https://www.swift.org/)
+[Swift.org](https://www.swift.org/)
 
 # April 28, 2025
 [Swift News - YouTube Video](https://youtu.be/pnAT-PJrV5E)  
