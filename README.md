@@ -6,6 +6,20 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases every Monday along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get Swift News in your inbox every Monday. This repository is home for all the links featured in Swift News.
 
+# July 7, 2025
+[Swift News - YouTube Video](https://youtu.be/bGIWSlnHWBw)  
+
+[Swift Android Workgroup](https://www.swift.org/android-workgroup/)  
+[Announcing the Android Workgroup (Swift Forums)](https://forums.swift.org/t/announcing-the-android-workgroup/80666/10)  
+[What's New in SwiftUI for iOS 26](https://www.hackingwithswift.com/articles/278/whats-new-in-swiftui-for-ios-26)  
+[An Introduction to Apple’s Foundation Model Framework](https://superwall.com/blog/an-introduction-to-apples-foundation-model-framework)  
+[Apple Intelligence Tools](https://alexanderlogan.co.uk/blog/wwdc25/02-apple-intelligence-tools)  
+[The Ultimate Guide to the Foundation Models Framework](https://azamsharp.com/2025/06/18/the-ultimate-guide-to-the-foundation-models-framework.html)  
+[Requiring iOS 26?](https://david-smith.org/blog/2025/06/27/requiring-26/)  
+[Understanding and Improving SwiftUI Performance (Airbnb)](https://medium.com/airbnb-engineering/understanding-and-improving-swiftui-performance-37b77ac61896)  
+[DeepDishSwift YouTube Channel](https://www.youtube.com/@DeepDishSwift)  
+[RevenueCat Ship-a-ton](https://x.com/RevenueCat/status/1940457070723285142)
+
 # June 16, 2025
 [Swift News - YouTube Video](https://youtu.be/14ZpgTJ5I0Q)  
 
