@@ -4,7 +4,18 @@
 
 Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  
 
-Swift News releases every Monday along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get Swift News in your inbox every Monday. This repository is home for all the links featured in Swift News.
+Swift News releases about once a week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
+
+# July 28, 2025
+[Swift News - YouTube Video](https://youtu.be/gonUvejvaFo)  
+
+[Adapting Search to the Liquid Glass Design System](https://www.createwithswift.com/adapting-search-to-the-liquid-glass-design-system/)  
+[What made Honk “honkish” (design case study)](https://benji.org/honkish)  
+[IAP vs Web Purchases: RevenueCat conversion test](https://www.revenuecat.com/blog/growth/iap-vs-web-purchases-conversion-test/)  
+[External Payment Link vs In-App Purchase (video)](https://www.youtube.com/watch?v=R3gbKaowcq4)  
+[Let vs Var for Swift Struct Properties](https://www.swiftbysundell.com/articles/let-vs-var-for-swift-struct-properties/)  
+[Advanced AsyncStream: pushing data over time](https://blog.jacobstechtavern.com/p/async-stream)  
+[Making your iOS app accessible with Dynamic Type (Codakuma)](https://codakuma.com/dynamic-type/)
 
 # July 7, 2025
 [Swift News - YouTube Video](https://youtu.be/bGIWSlnHWBw)  
