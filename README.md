@@ -6,6 +6,17 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases about once a week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
+# August 11, 2025
+[Swift News - YouTube Video](https://youtu.be/bUj9PpuPX0o)  
+
+[SwiftUI in 2025: Forget MVVM](https://dimillian.medium.com/swiftui-in-2025-forget-mvvm-262ff2bbd2ed)  
+[Retention Messaging API](https://developer.apple.com/documentation/RetentionMessaging)  
+[Fikri Chart Library](https://www.behance.net/gallery/183555223/Fikri-Chart-Library-Free-Download)  
+[Choosing between LazyVStack, List, and VStack in SwiftUI](https://www.donnywals.com/choosing-between-lazyvstack-list-and-vstack-in-swiftui/)  
+[Foundation Models Playgrounds](https://github.com/IvanCampos/Foundation-Models-Playgrounds?tab=readme-ov-file)  
+[How Vibe Coding Is Hurting Your Critical Thinking](https://azamsharp.com/2025/08/03/how-vibe-coding-is-hurting-your-critical-thinking.html)  
+[The Business and the Boutique](https://www.swiftjectivec.com/the-business-and-the-boutique/)
+
 # July 28, 2025
 [Swift News - YouTube Video](https://youtu.be/gonUvejvaFo)  
 
