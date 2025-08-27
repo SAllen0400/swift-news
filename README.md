@@ -1,10 +1,17 @@
-<p align="center">
-  <img src="https://seanallen-course-backend.herokuapp.com/images/swift-news-logo-white-small.png" />
-</p>
-
 Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  
 
 Swift News releases about once a week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
+
+# August 27, 2025
+[Swift News - YouTube Video](https://youtu.be/rDmHKZGNYYE)  
+
+[What’s New in UIKit for iOS 26](https://sebvidal.com/blog/whats-new-in-uikit-26)  
+[Working with the Main Menu in SwiftUI](https://serialcoder.dev/text-tutorials/swiftui/working-with-the-main-menu-in-swiftui/)  
+[Populating SwiftUI Menus with Adaptive Controls](https://developer.apple.com/documentation/swiftui/populating-swiftui-menus-with-adaptive-controls)  
+[How Swift’s Server Support Powers Things Cloud](https://www.swift.org/blog/how-swifts-server-support-powers-things-cloud/)  
+[Swift Discovery: Indie App Devs](https://swiftdiscovery.substack.com/p/swift-discovery-indie-app-devs)  
+[Just One More Prompt](https://steipete.me/posts/just-one-more-prompt)  
+[Bitrig YouTube Video](https://www.youtube.com/watch?v=e-DqSVEI50w)
 
 # August 11, 2025
 [Swift News - YouTube Video](https://youtu.be/bUj9PpuPX0o)  
