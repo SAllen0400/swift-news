@@ -2,6 +2,16 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases about once a week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
+# October 8, 2025
+[Swift News - YouTube Video](https://youtu.be/KIbPHB6FIlo)  
+
+[Swift 6.2 Released](https://www.swift.org/blog/swift-6.2-released/)  
+[What’s New in Swift 6.2](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6.2)  
+[The Great Shift in Apple Development](https://captainswiftui.substack.com/p/the-great-shift-in-apple-development)  
+[The Dark Side of iOS Development: Why Everyone Is Quitting](https://medium.com/@AshAsoyan/the-dark-side-of-ios-development-why-everyone-is-quitting-13a2b0119589)  
+[Apple’s Foundation Models Framework Unlocks New Intelligent App Experiences](https://www.apple.com/newsroom/2025/09/apples-foundation-models-framework-unlocks-new-intelligent-app-experiences/)  
+[Widgetsmith Five Years Later](https://david-smith.org/blog/2025/09/18/widgetsmith-at-five/)
+
 # August 27, 2025
 [Swift News - YouTube Video](https://youtu.be/rDmHKZGNYYE)  
 
