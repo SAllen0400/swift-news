@@ -2,6 +2,18 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases about once a week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
+# December 2, 2025
+[Swift News - YouTube Video](https://youtu.be/YCRvVfDGQuY)  
+
+[Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)  
+[Shipaton 2025 Winners](https://www.revenuecat.com/blog/company/shipaton-2025-winners/)  
+[RevenueCat App Growth Anual YouTube](https://www.youtube.com/playlist?list=PLsFOrkX_y0B6o8zs8PUOWQbUi_nTQn_uD)  
+[SwiftUI Scroll Performance: The 120FPS Challenge](https://blog.jacobstechtavern.com/p/swiftui-scroll-performance-the-120fps)  
+[Foundation Models Framework Q&A](https://antongubarenko.substack.com/p/ios-26-foundation-model-framework-f6d)  
+[Foundation Models Framework Code Along](https://www.youtube.com/watch?v=S5F196tqRMI)  
+[iPhone 17 Screen Sizes](https://useyourloaf.com/blog/iphone-17-screen-sizes/)  
+[Text Concatenation vs Text Interpolation](https://nilcoalescing.com/blog/TextConcatenationVsTextInterpolationInSwiftUI/)
+
 # October 8, 2025
 [Swift News - YouTube Video](https://youtu.be/KIbPHB6FIlo)  
 
