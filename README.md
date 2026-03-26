@@ -2,6 +2,19 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases about once a week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
+# March 26, 2026
+[Swift News - YouTube Video](https://youtu.be/VU-NiioUpxg)  
+
+[App Store Connect CLI](https://asccli.sh/)  
+[App Store Connect CLI (GitHub)](https://github.com/rudrankriyam/App-Store-Connect-CLI)  
+[Rudrank on X](https://x.com/rudrank)  
+[WinWinKit](https://winwinkit.com/)  
+[Paul Hudson Skills Tweet](https://x.com/twostraws/status/2031750911429652886)  
+[iOS Developer Skills by Dimillian](https://dimillian.github.io/Skills/)  
+[Swift Concurrency: Zero to Hero](https://swiftology.io/articles/swift-concurrency-zero-to-hero/)  
+[Tracking Token Usage in Foundation Models](https://artemnovichkov.com/blog/tracking-token-usage-in-foundation-models)  
+[AI Workflow - Antoine van der Lee](https://indieappdevs.substack.com/p/indie-app-devs-17)
+
 # February 12, 2026
 [Swift News - YouTube Video](https://youtu.be/_80oGwJQIjs)  
 
