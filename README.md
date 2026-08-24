@@ -2,7 +2,16 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases about every other week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
-Swift News is brought to you by [Bitrig](https://bitrig.com/?utm_source=swiftnews_yt). Build native Swift apps with AI.
+Swift News is brought to you by [Bitrig](https://bitrig.link/swiftnews). Build native Swift apps with AI.
+
+# August 24, 2026
+[Swift News - YouTube Video](https://youtu.be/jxmQPfkwaXo)  
+
+[Using AI Without Losing Critical Thinking](https://swiftrocks.com/using-ai-without-losing-critical-thinking)  
+[What Kills Apps (and Why It Isn't Being Sherlocked)](https://www.kickstart.tools/blog/what-kills-apps-and-why-it-isnt-being-sherlocked)  
+[Understanding Blend Modes in SwiftUI](https://nilcoalescing.com/blog/BlendModesInSwiftUI/)  
+[Copywriting with Agents (and Apple Designers)](https://www.swiftjectivec.com/copywriting-with-agents-and-apple-designers/)  
+[AI Context Windows, Context Rot, and Why Your AI Gets Worse Over Time](https://bitrig.com/blog/ai-context-window-context-rot)
 
 # July 16, 2026
 [Swift News - YouTube Video](https://youtu.be/Q3tPGesg_e8)  
